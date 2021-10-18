@@ -1,4 +1,4 @@
-# ChoroplethMapping
+# Mapping with Folium 
 Practicing some basic map skills
 
 I created a basic choropleth map using folium and the Oregon Health Authority's open data on 
