@@ -1,0 +1,535 @@
+Address,CaseNumber,CrimeAgainst,Neighborhood,OccurDate,OccurTime,OffenseCategory,OffenseType,OpenDataLat,OpenDataLon,ReportDate,OffenseCount
+0 BLOCK OF NE 82ND AVE,21-24568,Society,Montavilla,1/27/21,1233,Weapon Law Violations,Weapons Law Violations,45.52316987,-122.5791192,1/27/21,1
+0 BLOCK OF NE 154TH AVE,21-133302,Society,Glenfair,5/17/21,2257,Weapon Law Violations,Weapons Law Violations,45.52266825,-122.5046757,5/17/21,1
+0 BLOCK OF NE SACRAMENTO ST,21-146106,Society,Eliot,5/30/21,1349,Weapon Law Violations,Weapons Law Violations,45.54001055,-122.6654183,5/30/21,1
+0 BLOCK OF NW DAVIS ST,21-22285,Society,Old Town/Chinatown,1/24/21,2315,Weapon Law Violations,Weapons Law Violations,45.52454455,-122.6708004,1/24/21,1
+0 BLOCK OF SW MORRISON ST,21-235010,Society,Downtown,8/24/21,138,Weapon Law Violations,Weapons Law Violations,45.51755676,-122.6731052,8/24/21,1
+100 BLOCK OF NE 12TH AVE,21-160121,Society,Kerns,6/13/21,1139,Weapon Law Violations,Weapons Law Violations,45.52397533,-122.6536632,6/13/21,1
+100 BLOCK OF NE 82ND AVE,21-34961,Society,Montavilla,2/7/21,1515,Weapon Law Violations,Weapons Law Violations,45.5240748,-122.5789923,2/7/21,1
+100 BLOCK OF NW 4TH AVE,21-124741,Society,Old Town/Chinatown,5/9/21,1533,Weapon Law Violations,Weapons Law Violations,45.52416971,-122.6743731,5/9/21,1
+100 BLOCK OF NW 13TH AVE,21-153367,Society,Pearl,6/6/21,1208,Weapon Law Violations,Weapons Law Violations,45.52399048,-122.684257,6/6/21,1
+100 BLOCK OF NW 20TH AVE,21-209516,Society,Northwest,7/30/21,1713,Weapon Law Violations,Weapons Law Violations,45.52401398,-122.6922439,7/30/21,1
+100 BLOCK OF NW BROADWAY,21-101150,Society,Old Town/Chinatown,4/15/21,1355,Weapon Law Violations,Weapons Law Violations,45.52411202,-122.6774193,4/15/21,1
+100 BLOCK OF SE 129TH AVE,21-150836,Society,Hazelwood,6/3/21,2304,Weapon Law Violations,Weapons Law Violations,45.52138688,-122.5309316,6/3/21,1
+100 BLOCK OF SE 146TH AVE,21-12117,Society,Hazelwood,1/13/21,2156,Weapon Law Violations,Weapons Law Violations,45.52129106,-122.513303,1/13/21,1
+100 BLOCK OF SE ANKENY CIR,21-128404,Society,Glenfair,5/13/21,26,Weapon Law Violations,Weapons Law Violations,45.52136774,-122.5021632,5/13/21,1
+100 BLOCK OF SW EASTMAN PKWY,21-680338,Society,,3/9/21,545,Weapon Law Violations,Weapons Law Violations,45.49577786,-122.4390598,3/9/21,1
+100 BLOCK OF SW YAMHILL ST,21-211436,Society,Downtown,8/1/21,1150,Weapon Law Violations,Weapons Law Violations,45.51723557,-122.6744198,8/1/21,1
+100 BLOCK OF W BURNSIDE ST,21-208420,Society,Old Town/Chinatown,7/29/21,1910,Weapon Law Violations,Weapons Law Violations,45.52316937,-122.6718485,7/29/21,1
+200 BLOCK OF NE 9TH AVE,21-680068,Society,Kerns,1/20/21,1255,Weapon Law Violations,Weapons Law Violations,45.52469984,-122.6565791,1/20/21,1
+200 BLOCK OF NE 74TH AVE,21-40450,Society,Montavilla,2/13/21,200,Weapon Law Violations,Weapons Law Violations,45.52435168,-122.586875,2/13/21,1
+200 BLOCK OF SE 106TH AVE,21-20691,Society,Hazelwood,1/23/21,24,Weapon Law Violations,Weapons Law Violations,45.52058232,-122.5539683,1/23/21,1
+200 BLOCK OF SE 106TH AVE,21-800836,Society,Hazelwood,3/17/21,1700,Weapon Law Violations,Weapons Law Violations,45.52057907,-122.5538433,4/1/21,1
+200 BLOCK OF SE MARTIN LUTHER KING JR BLVD,21-173334,Society,Buckman West,6/19/21,1130,Weapon Law Violations,Weapons Law Violations,45.52115224,-122.6618382,6/26/21,1
+200 BLOCK OF SW ANKENY ST,21-219048,Society,Old Town/Chinatown,8/8/21,1250,Weapon Law Violations,Weapons Law Violations,45.5224959,-122.6727868,8/8/21,1
+300 BLOCK OF NE 84TH AVE,21-232171,Society,Montavilla,8/21/21,1100,Weapon Law Violations,Weapons Law Violations,45.52549241,-122.5770653,8/21/21,1
+300 BLOCK OF NW 19TH AVE,21-77751,Society,Northwest,3/23/21,1406,Weapon Law Violations,Weapons Law Violations,45.52530322,-122.6903888,3/23/21,1
+300 BLOCK OF NW 19TH AVE,21-253955,Society,Northwest,9/11/21,1842,Weapon Law Violations,Weapons Law Violations,45.52530322,-122.6903888,9/11/21,1
+300 BLOCK OF NW DAVIS ST,21-227066,Society,Old Town/Chinatown,8/16/21,1120,Weapon Law Violations,Weapons Law Violations,45.52449067,-122.6739404,8/16/21,1
+300 BLOCK OF NW GLISAN ST,21-270891,Society,Old Town/Chinatown,9/28/21,1250,Weapon Law Violations,Weapons Law Violations,45.52662362,-122.674026,9/28/21,1
+300 BLOCK OF SE 82ND AVE,21-162644,Society,Montavilla,6/15/21,1943,Weapon Law Violations,Weapons Law Violations,45.52012665,-122.579,6/15/21,1
+300 BLOCK OF SE 122ND AVE,21-242206,Society,Hazelwood,8/31/21,527,Weapon Law Violations,Weapons Law Violations,45.5200569,-122.5377138,8/31/21,1
+300 BLOCK OF SE 157TH AVE,21-190543,Society,Glenfair,7/12/21,1611,Weapon Law Violations,Weapons Law Violations,45.52029737,-122.5015557,7/12/21,1
+300 BLOCK OF SW 5TH AVE,21-255971,Society,Downtown,9/13/21,1830,Weapon Law Violations,Weapons Law Violations,45.52111872,-122.6762585,9/13/21,1
+300 BLOCK OF SW 12TH AVE,21-250036,Society,Downtown,9/8/21,245,Weapon Law Violations,Weapons Law Violations,45.52261172,-122.6831774,9/8/21,1
+400 BLOCK OF NE EMERSON ST,21-218367,Society,King,8/7/21,1934,Weapon Law Violations,Weapons Law Violations,45.56185342,-122.6610026,8/7/21,1
+400 BLOCK OF NE FARGO ST,21-72372,Society,Eliot,3/18/21,423,Weapon Law Violations,Weapons Law Violations,45.54641855,-122.661106,3/18/21,1
+400 BLOCK OF NE WASCO ST,21-75344,Society,Lloyd,3/21/21,333,Weapon Law Violations,Weapons Law Violations,45.53226596,-122.6611528,3/21/21,1
+400 BLOCK OF W BURNSIDE ST,21-180077,Society,Downtown,7/2/21,1944,Weapon Law Violations,Weapons Law Violations,45.52304581,-122.6748999,7/2/21,1
+500 BLOCK OF NE 102ND AVE,21-201181,Society,Hazelwood,7/23/21,21,Weapon Law Violations,Weapons Law Violations,45.52656697,-122.5582091,7/23/21,1
+500 BLOCK OF NE MORRIS ST,21-101964,Society,Eliot,4/16/21,736,Weapon Law Violations,Weapons Law Violations,45.54462383,-122.6601045,4/16/21,1
+500 BLOCK OF NE SAN RAFAEL ST,21-228541,Society,Eliot,8/17/21,1853,Weapon Law Violations,Weapons Law Violations,45.53701521,-122.6601312,8/17/21,1
+500 BLOCK OF NW 23RD AVE,21-109470,Society,Northwest,4/23/21,2255,Weapon Law Violations,Weapons Law Violations,45.52658189,-122.6984284,4/23/21,1
+500 BLOCK OF SE 92ND AVE,21-14286,Society,Montavilla,1/16/21,525,Weapon Law Violations,Weapons Law Violations,45.5188827,-122.569182,1/16/21,1
+500 BLOCK OF SE GRAND AVE,21-87791,Society,Buckman West,4/2/21,1400,Weapon Law Violations,Weapons Law Violations,45.51900944,-122.6606717,4/2/21,1
+500 BLOCK OF SW 3RD AVE,21-128020,Society,Downtown,5/12/21,1619,Weapon Law Violations,Weapons Law Violations,45.51923688,-122.6749375,5/12/21,1
+500 BLOCK OF SW 4TH AVE,21-162873,Society,Downtown,6/16/21,116,Weapon Law Violations,Weapons Law Violations,45.5195418,-122.6760771,6/16/21,1
+500 BLOCK OF SW 13TH AVE,21-240980,Society,Downtown,8/30/21,3,Weapon Law Violations,Weapons Law Violations,45.52184767,-122.6846897,8/30/21,1
+500 BLOCK OF SW BROADWAY,21-220965,Society,Downtown,8/9/21,610,Weapon Law Violations,Weapons Law Violations,45.52036178,-122.6791372,8/10/21,1
+600 BLOCK OF NE 16TH AVE,21-76269,Society,Kerns,3/22/21,155,Weapon Law Violations,Weapons Law Violations,45.527568,-122.649494,3/22/21,1
+600 BLOCK OF SE 160TH AVE,21-227649,Society,Centennial,8/16/21,2327,Weapon Law Violations,Weapons Law Violations,45.51778238,-122.499145,8/16/21,1
+600 BLOCK OF SE 160TH AVE,21-234161,Society,Centennial,8/23/21,544,Weapon Law Violations,Weapons Law Violations,45.51778181,-122.4990201,8/23/21,1
+600 BLOCK OF SW 2ND AVE,21-114156,Society,Downtown,4/28/21,1956,Weapon Law Violations,Weapons Law Violations,45.51833832,-122.6744308,4/28/21,1
+600 BLOCK OF SW 5TH AVE,21-250627,Society,Downtown,9/8/21,1500,Weapon Law Violations,Weapons Law Violations,45.5191201,-122.6773372,9/8/21,1
+600 BLOCK OF SW MORRISON ST,21-180358,Society,Downtown,7/3/21,59,Weapon Law Violations,Weapons Law Violations,45.51916834,-122.6791343,7/3/21,1
+600 BLOCK OF SW NAITO PKWY,21-88700,Society,Downtown,4/3/21,1149,Weapon Law Violations,Weapons Law Violations,45.51843703,-122.671968,4/3/21,1
+700 BLOCK OF N KILLINGSWORTH ST,21-225496,Society,Humboldt,8/14/21,1800,Weapon Law Violations,Weapons Law Violations,45.56263679,-122.6744607,8/14/21,1
+700 BLOCK OF NE BROADWAY,21-215277,Society,Irvington,8/5/21,228,Weapon Law Violations,Weapons Law Violations,45.53510548,-122.6580948,8/5/21,1
+700 BLOCK OF NW EVERETT ST,21-84023,Society,Pearl,3/29/21,2218,Weapon Law Violations,Weapons Law Violations,45.52521732,-122.6780199,3/29/21,1
+700 BLOCK OF NW NAITO PKWY,21-139574,Society,Old Town/Chinatown,5/24/21,737,Weapon Law Violations,Weapons Law Violations,45.52859591,-122.6739025,5/24/21,1
+700 BLOCK OF SE 6TH AVE,21-130439,Society,Buckman West,5/14/21,2221,Weapon Law Violations,Weapons Law Violations,45.51757964,-122.6596689,5/14/21,1
+700 BLOCK OF SE 17TH AVE,21-130539,Society,Buckman East,5/15/21,10,Weapon Law Violations,Weapons Law Violations,45.51754234,-122.6486345,5/15/21,1
+700 BLOCK OF SW 6TH AVE,21-103575,Society,Downtown,4/17/21,2048,Weapon Law Violations,Weapons Law Violations,45.5187487,-122.6788372,4/17/21,1
+700 BLOCK OF SW 11TH AVE,21-6751,Society,Downtown,1/8/21,1046,Weapon Law Violations,Weapons Law Violations,45.51993259,-122.6832461,1/8/21,1
+700 BLOCK OF SW 15TH AVE,21-203126,Society,Goose Hollow,7/24/21,1846,Weapon Law Violations,Weapons Law Violations,45.52104422,-122.6874065,7/24/21,1
+700 BLOCK OF SW BROADWAY,21-35977,Society,Downtown,2/8/21,1700,Weapon Law Violations,Weapons Law Violations,45.51899763,-122.6797444,2/8/21,1
+800 BLOCK OF SW BROADWAY DR,21-62770,Society,Southwest Hills,3/8/21,1802,Weapon Law Violations,Weapons Law Violations,45.50380403,-122.6867699,3/8/21,1
+800 BLOCK OF SW PARK AVE,21-247334,Society,Downtown,9/3/21,2100,Weapon Law Violations,Weapons Law Violations,45.51861902,-122.6811896,9/5/21,1
+900 BLOCK OF NW NAITO PKWY,21-34607,Society,Old Town/Chinatown,2/7/21,401,Weapon Law Violations,Weapons Law Violations,45.53014077,-122.6754879,2/7/21,1
+900 BLOCK OF SW 12TH AVE,21-196549,Society,Downtown,7/18/21,831,Weapon Law Violations,Weapons Law Violations,45.51890125,-122.6851072,7/18/21,1
+900 BLOCK OF SW MORRISON ST,21-54345,Society,Downtown,2/28/21,1545,Weapon Law Violations,Weapons Law Violations,45.51991724,-122.6815985,2/28/21,1
+900 BLOCK OF SW PARK AVE,21-260322,Society,Downtown,9/18/21,239,Weapon Law Violations,Weapons Law Violations,45.51792286,-122.6814399,9/18/21,1
+1000 BLOCK OF NW 12TH AVE,21-219694,Society,Pearl,8/9/21,358,Weapon Law Violations,Weapons Law Violations,45.53042519,-122.6833491,8/9/21,1
+1000 BLOCK OF NW 22ND AVE,21-236380,Society,Northwest,8/25/21,1026,Weapon Law Violations,Weapons Law Violations,45.53017978,-122.6966589,8/25/21,1
+1000 BLOCK OF SW 3RD AVE,21-7308,Society,Downtown,1/8/21,2000,Weapon Law Violations,Weapons Law Violations,45.5159046,-122.6767534,1/8/21,1
+1000 BLOCK OF SW JEFFERSON ST,21-116227,Society,Downtown,4/30/21,1856,Weapon Law Violations,Weapons Law Violations,45.51610579,-122.6848006,4/30/21,1
+1000 BLOCK OF SW JEFFERSON ST,21-120726,Society,Downtown,5/5/21,1232,Weapon Law Violations,Weapons Law Violations,45.51610579,-122.6848006,5/5/21,1
+1000 BLOCK OF SW JEFFERSON ST,21-132693,Society,Downtown,5/17/21,1042,Weapon Law Violations,Weapons Law Violations,45.51610579,-122.6848006,5/17/21,1
+1000 BLOCK OF SW JEFFERSON ST,21-155335,Society,Downtown,6/8/21,1510,Weapon Law Violations,Weapons Law Violations,45.51610579,-122.6848006,6/8/21,1
+1100 BLOCK OF N HAYDEN MEADOWS DR,21-23621,Society,East Columbia,1/26/21,1119,Weapon Law Violations,Weapons Law Violations,45.59548914,-122.6785109,1/26/21,1
+1100 BLOCK OF N HAYDEN MEADOWS DR,21-94903,Society,East Columbia,4/9/21,918,Weapon Law Violations,Weapons Law Violations,45.59298933,-122.6791105,4/9/21,1
+1100 BLOCK OF N HAYDEN MEADOWS DR,21-158428,Society,East Columbia,6/11/21,1731,Weapon Law Violations,Weapons Law Violations,45.59548914,-122.6785109,6/11/21,1
+1100 BLOCK OF NE 99TH AVE,21-47449,Society,Hazelwood,2/21/21,1740,Weapon Law Violations,Weapons Law Violations,45.53090421,-122.5623596,2/21/21,1
+1100 BLOCK OF NE 99TH AVE,21-62834,Society,Hazelwood,3/8/21,1929,Weapon Law Violations,Weapons Law Violations,45.53090421,-122.5623596,3/8/21,1
+1100 BLOCK OF NE 99TH AVE,21-138054,Society,Hazelwood,5/22/21,1520,Weapon Law Violations,Weapons Law Violations,45.53090421,-122.5623596,5/22/21,1
+1100 BLOCK OF NE 102ND AVE,21-44639,Society,Hazelwood,2/18/21,1550,Weapon Law Violations,Weapons Law Violations,45.53095499,-122.5581495,2/18/21,1
+1100 BLOCK OF SE 140TH AVE,21-232065,Society,Hazelwood,8/21/21,758,Weapon Law Violations,Weapons Law Violations,45.51522138,-122.5197687,8/21/21,1
+1100 BLOCK OF SW 2ND AVE,21-60218,Society,Downtown,3/6/21,626,Weapon Law Violations,Weapons Law Violations,45.51500634,-122.6762311,3/6/21,1
+1100 BLOCK OF SW 2ND AVE,21-88694,Society,Downtown,4/3/21,1116,Weapon Law Violations,Weapons Law Violations,45.51500634,-122.6762311,4/3/21,1
+1100 BLOCK OF SW 2ND AVE,21-199493,Society,Downtown,7/21/21,850,Weapon Law Violations,Weapons Law Violations,45.51500634,-122.6762311,7/21/21,1
+1100 BLOCK OF SW 3RD AVE,21-200244,Society,Downtown,7/21/21,2309,Weapon Law Violations,Weapons Law Violations,45.51524209,-122.6771104,7/21/21,1
+1100 BLOCK OF SW 11TH AVE,21-76725,Society,Downtown,3/22/21,1426,Weapon Law Violations,Weapons Law Violations,45.51730197,-122.6848037,3/22/21,1
+1100 BLOCK OF SW 11TH AVE,21-83802,Society,Downtown,3/29/21,1754,Weapon Law Violations,Weapons Law Violations,45.51730197,-122.6848037,3/29/21,1
+1200 BLOCK OF NE 102ND AVE,21-11207,Society,Hazelwood,1/13/21,219,Weapon Law Violations,Weapons Law Violations,45.53167346,-122.5580155,1/13/21,1
+1200 BLOCK OF NE 102ND AVE,21-38133,Society,Hazelwood,2/10/21,2021,Weapon Law Violations,Weapons Law Violations,45.53167346,-122.5580155,2/10/21,1
+1200 BLOCK OF NE 102ND AVE,21-156162,Society,Hazelwood,6/9/21,1149,Weapon Law Violations,Weapons Law Violations,45.53167346,-122.5580155,6/9/21,1
+1200 BLOCK OF NW NAITO PKWY,21-272207,Society,Pearl,9/29/21,1801,Weapon Law Violations,Weapons Law Violations,45.53203875,-122.6782738,9/29/21,1
+1200 BLOCK OF SE EASTBANK ESPLANADE,21-172609,Society,Buckman West,6/25/21,1748,Weapon Law Violations,Weapons Law Violations,45.51403634,-122.6680377,6/25/21,1
+1200 BLOCK OF SE MORRISON ST,21-8553,Society,Buckman East,1/10/21,539,Weapon Law Violations,Weapons Law Violations,45.51724401,-122.6531386,1/10/21,1
+1200 BLOCK OF SW 3RD AVE,21-97890,Society,Downtown,4/12/21,1046,Weapon Law Violations,Weapons Law Violations,45.51456847,-122.6774748,4/12/21,1
+1200 BLOCK OF SW 10TH AVE,21-181350,Society,Downtown,7/3/21,2342,Weapon Law Violations,Weapons Law Violations,45.51635692,-122.6841468,7/4/21,1
+1200 BLOCK OF SW CLAY ST,21-89675,Society,Downtown,4/4/21,834,Weapon Law Violations,Weapons Law Violations,45.51532893,-122.687561,4/4/21,1
+1200 BLOCK OF SW NAITO PKWY,21-105927,Society,Downtown,4/20/21,958,Weapon Law Violations,Weapons Law Violations,45.513944,-122.6743757,4/20/21,1
+1400 BLOCK OF N DEKUM ST,21-47552,Society,Arbor Lodge,2/21/21,1954,Weapon Law Violations,Weapons Law Violations,45.57172163,-122.6812351,2/21/21,1
+1400 BLOCK OF NE BRYANT CT,21-152101,Society,Woodlawn,6/5/21,600,Weapon Law Violations,Weapons Law Violations,45.57345696,-122.6502757,6/5/21,1
+1400 BLOCK OF NE GRAND AVE,21-258171,Society,Lloyd,9/15/21,2320,Weapon Law Violations,Weapons Law Violations,45.53328673,-122.6607076,9/16/21,1
+1500 BLOCK OF N AINSWORTH ST,21-88621,Society,Arbor Lodge,4/3/21,843,Weapon Law Violations,Weapons Law Violations,45.56635114,-122.683177,4/3/21,1
+1500 BLOCK OF NE 68TH AVE,21-85483,Society,Madison South,3/31/21,1035,Weapon Law Violations,Weapons Law Violations,45.53420877,-122.5932453,3/31/21,1
+1500 BLOCK OF NE KILLINGSWORTH ST,21-121449,Society,Vernon,5/6/21,405,Weapon Law Violations,Weapons Law Violations,45.56267221,-122.6493749,5/6/21,1
+1500 BLOCK OF NE MASON ST,21-128141,Society,Sabin,5/12/21,1843,Weapon Law Violations,Weapons Law Violations,45.55315394,-122.6498501,5/12/21,1
+1500 BLOCK OF S HARBOR WAY,21-243466,Society,Downtown,9/1/21,1200,Weapon Law Violations,Weapons Law Violations,45.51152961,-122.674373,9/1/21,1
+1500 BLOCK OF SE 45TH AVE,21-226737,Society,Richmond,8/16/21,102,Weapon Law Violations,Weapons Law Violations,45.51165813,-122.616214,8/16/21,1
+1500 BLOCK OF SW CLAY ST,21-262473,Society,Goose Hollow,9/20/21,951,Weapon Law Violations,Weapons Law Violations,45.51613497,-122.6906167,9/20/21,1
+1500 BLOCK OF SW PARK AVE,21-238451,Society,Downtown,8/27/21,1135,Weapon Law Violations,Weapons Law Violations,45.5140917,-122.6842353,8/27/21,1
+1700 BLOCK OF NW 25TH AVE,21-170080,Society,Northwest,6/22/21,2315,Weapon Law Violations,Weapons Law Violations,45.53505948,-122.7028911,6/23/21,1
+1700 BLOCK OF SW PARK AVE,21-113743,Society,Downtown,4/27/21,1804,Weapon Law Violations,Weapons Law Violations,45.51291062,-122.6848806,4/29/21,1
+1700 BLOCK OF SW PARK AVE,21-681543,Society,Downtown,4/28/21,718,Weapon Law Violations,Weapons Law Violations,45.51291062,-122.6848806,4/29/21,1
+1800 BLOCK OF NE 66TH AVE,21-174484,Society,Madison South,6/27/21,1511,Weapon Law Violations,Weapons Law Violations,45.53585089,-122.5952734,6/27/21,1
+1900 BLOCK OF NW GLISAN ST,21-237679,Society,Northwest,8/26/21,1604,Weapon Law Violations,Weapons Law Violations,45.52639826,-122.6913796,8/26/21,1
+1900 BLOCK OF SE 117TH AVE,21-153184,Society,Mill Park,6/6/21,837,Weapon Law Violations,Weapons Law Violations,45.50934984,-122.5427535,6/6/21,1
+1900 BLOCK OF SE 122ND AVE,21-167855,Society,Mill Park,6/21/21,415,Weapon Law Violations,Weapons Law Violations,45.50941416,-122.5377417,6/21/21,1
+1900 BLOCK OF SE MORRISON ST,21-144435,Society,Buckman East,5/28/21,2046,Weapon Law Violations,Weapons Law Violations,45.51713258,-122.6460432,5/28/21,1
+1900 BLOCK OF SW MORRISON ST,21-78335,Society,Goose Hollow,3/24/21,228,Weapon Law Violations,Weapons Law Violations,45.52265829,-122.6918285,3/24/21,1
+2000 BLOCK OF NE COLUMBIA BLVD,21-92686,Society,Sunderland,4/7/21,638,Weapon Law Violations,Weapons Law Violations,45.57671916,-122.6443947,4/7/21,1
+2000 BLOCK OF NW FLANDERS ST,21-53187,Society,Northwest,2/27/21,1116,Weapon Law Violations,Weapons Law Violations,45.525559,-122.6933769,2/27/21,1
+2000 BLOCK OF NW HOYT ST,21-87905,Society,Northwest,4/2/21,1536,Weapon Law Violations,Weapons Law Violations,45.5270724,-122.6934354,4/2/21,1
+2000 BLOCK OF SW 1ST AVE,21-103484,Society,Downtown,4/17/21,1911,Weapon Law Violations,Weapons Law Violations,45.50833594,-122.6787187,4/17/21,1
+2100 BLOCK OF N ARGYLE ST,21-213332,Society,Kenton,8/3/21,754,Weapon Law Violations,Weapons Law Violations,45.58457686,-122.6885323,8/3/21,1
+2100 BLOCK OF N WILLIAMS AVE,21-188925,Society,Eliot,7/11/21,132,Weapon Law Violations,Weapons Law Violations,45.5385252,-122.6666383,7/11/21,1
+2100 BLOCK OF SW MULTNOMAH BLVD,21-175629,Society,Multnomah,6/28/21,1917,Weapon Law Violations,Weapons Law Violations,45.46530954,-122.6995637,6/28/21,1
+2300 BLOCK OF NW VAUGHN ST,21-115547,Society,Northwest,4/30/21,13,Weapon Law Violations,Weapons Law Violations,45.53695193,-122.6993454,4/30/21,1
+2300 BLOCK OF SE 82ND AVE,21-19678,Society,Montavilla,1/21/21,2355,Weapon Law Violations,Weapons Law Violations,45.50588333,-122.5786191,1/21/21,1
+2300 BLOCK OF SE 121ST AVE,21-237447,Society,Mill Park,8/26/21,1040,Weapon Law Violations,Weapons Law Violations,45.50578338,-122.5388834,8/26/21,1
+2400 BLOCK OF N FLINT AVE,21-225057,Society,Eliot,8/14/21,838,Weapon Law Violations,Weapons Law Violations,45.54030903,-122.6686508,8/14/21,1
+2400 BLOCK OF SE 142ND AVE,21-89493,Society,Hazelwood,4/4/21,140,Weapon Law Violations,Weapons Law Violations,45.50455887,-122.5173334,4/4/21,1
+2500 BLOCK OF N ARGYLE ST,21-101102,Society,Kenton,4/15/21,1306,Weapon Law Violations,Weapons Law Violations,45.58448736,-122.6927996,4/15/21,1
+2500 BLOCK OF SE 50TH AVE,21-220380,Society,Richmond,8/9/21,2032,Weapon Law Violations,Weapons Law Violations,45.50459429,-122.6109409,8/9/21,1
+2600 BLOCK OF N HAYDEN ISLAND DR,21-264088,Society,Hayden Island,9/21/21,1943,Weapon Law Violations,Weapons Law Violations,45.61657484,-122.6923246,9/21/21,1
+2600 BLOCK OF NE 82ND AVE,21-95849,Society,Madison South,4/10/21,324,Weapon Law Violations,Weapons Law Violations,45.54121957,-122.5788316,4/10/21,1
+2600 BLOCK OF NW THURMAN ST,21-230418,Society,Northwest,8/19/21,1529,Weapon Law Violations,Weapons Law Violations,45.53531872,-122.7058252,8/19/21,1
+2600 BLOCK OF SE 122ND AVE,21-268262,Society,Powellhurst-Gilbert,9/25/21,1905,Weapon Law Violations,Weapons Law Violations,45.50275007,-122.5377406,9/25/21,1
+2600 BLOCK OF SE 160TH AVE,21-169851,Society,Centennial,6/23/21,333,Weapon Law Violations,Weapons Law Violations,45.50311091,-122.4986208,6/23/21,1
+2700 BLOCK OF NE 57TH AVE,21-19740,Society,Rose City Park,1/22/21,226,Weapon Law Violations,Weapons Law Violations,45.54259548,-122.6045376,1/22/21,1
+2700 BLOCK OF NE 82ND AVE,21-250636,Society,Madison South,9/8/21,1530,Weapon Law Violations,Weapons Law Violations,45.54195561,-122.5789406,9/8/21,1
+2700 BLOCK OF SE 82ND AVE,21-263686,Society,Powellhurst-Gilbert,9/21/21,1222,Weapon Law Violations,Weapons Law Violations,45.50283235,-122.5786245,9/21/21,1
+2800 BLOCK OF N GANTENBEIN AVE,21-17542,Society,Eliot,1/19/21,1743,Weapon Law Violations,Weapons Law Violations,45.54309139,-122.6695068,1/19/21,1
+2800 BLOCK OF SE 82ND AVE,21-169527,Society,Powellhurst-Gilbert,6/22/21,1922,Weapon Law Violations,Weapons Law Violations,45.5017814,-122.5786328,6/22/21,1
+2800 BLOCK OF SE 122ND AVE,21-269452,Society,Powellhurst-Gilbert,9/26/21,2343,Weapon Law Violations,Weapons Law Violations,45.50144427,-122.5377328,9/26/21,1
+3000 BLOCK OF SE 82ND AVE,21-54243,Society,Powellhurst-Gilbert,2/28/21,1335,Weapon Law Violations,Weapons Law Violations,45.50026969,-122.5786321,2/28/21,1
+3000 BLOCK OF SE 82ND AVE,21-90923,Society,Powellhurst-Gilbert,4/5/21,1314,Weapon Law Violations,Weapons Law Violations,45.50026969,-122.5786321,4/5/21,1
+3000 BLOCK OF SE 89TH AVE,21-270867,Society,Powellhurst-Gilbert,9/28/21,1228,Weapon Law Violations,Weapons Law Violations,45.50030959,-122.5717163,9/28/21,1
+3100 BLOCK OF NE MARINE DR,21-237710,Society,Sunderland,8/26/21,1637,Weapon Law Violations,Weapons Law Violations,45.6004231,-122.6326201,8/26/21,1
+3100 BLOCK OF SE 79TH AVE,21-262075,Society,South Tabor,9/19/21,2243,Weapon Law Violations,Weapons Law Violations,45.49971509,-122.5819865,9/19/21,1
+3200 BLOCK OF SE 90TH PL,21-139144,Society,Powellhurst-Gilbert,5/23/21,1940,Weapon Law Violations,Weapons Law Violations,45.49881053,-122.5704054,5/23/21,1
+3300 BLOCK OF NE 84TH AVE,21-204890,Society,Madison South,7/26/21,934,Weapon Law Violations,Weapons Law Violations,45.54663311,-122.5768316,7/26/21,1
+3300 BLOCK OF NE MARTIN LUTHER KING JR BLVD,21-179791,Society,Eliot,7/2/21,1437,Weapon Law Violations,Weapons Law Violations,45.54732686,-122.661535,7/2/21,1
+3300 BLOCK OF SE 82ND AVE,21-48709,Society,Powellhurst-Gilbert,2/22/21,2220,Weapon Law Violations,Weapons Law Violations,45.49825834,-122.5786482,2/22/21,1
+3400 BLOCK OF NE MARTIN LUTHER KING JR BLVD,21-226795,Society,Eliot,8/16/21,316,Weapon Law Violations,Weapons Law Violations,45.54808735,-122.6616538,8/16/21,1
+3600 BLOCK OF SE 32ND AVE,21-272724,Society,Creston-Kenilworth,9/30/21,1104,Weapon Law Violations,Weapons Law Violations,45.49649115,-122.6323931,9/30/21,1
+3600 BLOCK OF SE 33RD PL,21-102803,Society,Creston-Kenilworth,4/17/21,134,Weapon Law Violations,Weapons Law Violations,45.49644074,-122.6305264,4/17/21,1
+3600 BLOCK OF SE 34TH AVE,21-112850,Society,Creston-Kenilworth,4/27/21,1621,Weapon Law Violations,Weapons Law Violations,45.49648703,-122.6293617,4/27/21,1
+3700 BLOCK OF NE 15TH AVE,21-200665,Society,Sabin,7/22/21,1232,Weapon Law Violations,Weapons Law Violations,45.54979237,-122.6503241,7/22/21,1
+3700 BLOCK OF SE 77TH AVE,21-53150,Society,Foster-Powell,2/27/21,1033,Weapon Law Violations,Weapons Law Violations,45.49566959,-122.5835782,2/27/21,1
+3800 BLOCK OF N GANTENBEIN AVE,21-186170,Society,Boise,7/8/21,1321,Weapon Law Violations,Weapons Law Violations,45.55047418,-122.66909,7/8/21,1
+3800 BLOCK OF NE 141ST DR,21-60290,Society,Argay,3/6/21,658,Weapon Law Violations,Weapons Law Violations,45.55110262,-122.5190621,3/6/21,1
+3800 BLOCK OF SE 70TH AVE,21-191147,Society,Foster-Powell,7/13/21,828,Weapon Law Violations,Weapons Law Violations,45.49475373,-122.5912492,7/13/21,1
+3800 BLOCK OF SE 115TH AVE,21-47013,Society,Powellhurst-Gilbert,2/21/21,547,Weapon Law Violations,Weapons Law Violations,45.49427274,-122.5445168,2/21/21,1
+3800 BLOCK OF SE OAK ST,21-223089,Society,Laurelhurst,7/27/21,1200,Weapon Law Violations,Weapons Law Violations,45.52024127,-122.6237386,8/12/21,1
+3900 BLOCK OF N ALBINA AVE,21-193241,Society,Boise,7/15/21,19,Weapon Law Violations,Weapons Law Violations,45.55145222,-122.6745398,7/15/21,1
+3900 BLOCK OF SE 91ST AVE,21-225642,Society,Lents,8/14/21,2212,Weapon Law Violations,Weapons Law Violations,45.49346431,-122.5700428,8/14/21,1
+3900 BLOCK OF SE 136TH AVE,21-31510,Society,Powellhurst-Gilbert,2/4/21,31,Weapon Law Violations,Weapons Law Violations,45.49402557,-122.5236182,2/4/21,1
+3900 BLOCK OF SE 166TH AVE,21-89621,Society,Centennial,4/4/21,619,Weapon Law Violations,Weapons Law Violations,45.4942127,-122.4929908,4/4/21,1
+4000 BLOCK OF SE 82ND AVE,21-33066,Society,Lents,2/5/21,1455,Weapon Law Violations,Weapons Law Violations,45.49309378,-122.5787089,2/5/21,1
+4000 BLOCK OF SE 122ND AVE,21-81289,Society,Powellhurst-Gilbert,3/27/21,341,Weapon Law Violations,Weapons Law Violations,45.49302356,-122.537618,3/27/21,1
+4100 BLOCK OF NE HALSEY ST,21-237165,Society,Hollywood,8/26/21,510,Weapon Law Violations,Weapons Law Violations,45.53375017,-122.6211014,8/26/21,1
+4200 BLOCK OF NE 122ND AVE,21-164741,Society,Argay,6/17/21,2030,Weapon Law Violations,Weapons Law Violations,45.55326404,-122.5371294,6/17/21,1
+4200 BLOCK OF SE 82ND AVE,21-211642,Society,Lents,8/1/21,1632,Weapon Law Violations,Weapons Law Violations,45.49174643,-122.5787221,8/1/21,1
+4200 BLOCK OF SE 82ND AVE,21-232953,Society,Lents,8/22/21,135,Weapon Law Violations,Weapons Law Violations,45.49174643,-122.5787221,8/22/21,1
+4400 BLOCK OF NE CULLY BLVD,21-11741,Society,Cully,1/13/21,1440,Weapon Law Violations,Weapons Law Violations,45.55504164,-122.6011682,1/13/21,1
+4400 BLOCK OF SE 92ND AVE,21-113823,Society,Lents,4/28/21,1336,Weapon Law Violations,Weapons Law Violations,45.49025456,-122.5686581,4/28/21,1
+4400 BLOCK OF SE 101ST AVE,21-39313,Society,Lents,2/12/21,359,Weapon Law Violations,Weapons Law Violations,45.49008818,-122.5597506,2/12/21,1
+4500 BLOCK OF NE 95TH AVE,21-71987,Society,Parkrose,3/17/21,1724,Weapon Law Violations,Weapons Law Violations,45.5558325,-122.564937,3/17/21,1
+4500 BLOCK OF SE 17TH AVE,21-239435,Society,Brooklyn,8/28/21,905,Weapon Law Violations,Weapons Law Violations,45.48996151,-122.6482779,8/28/21,1
+4600 BLOCK OF NE 42ND AVE,21-20790,Society,Cully,1/23/21,534,Weapon Law Violations,Weapons Law Violations,45.55695854,-122.6203443,1/23/21,1
+4600 BLOCK OF SE 88TH AVE,21-224128,Society,Lents,8/13/21,1117,Weapon Law Violations,Weapons Law Violations,45.48876346,-122.5723836,8/13/21,1
+4600 BLOCK OF SE CLINTON ST,21-54670,Society,Richmond,2/28/21,2234,Weapon Law Violations,Weapons Law Violations,45.50331524,-122.6145493,2/28/21,1
+4700 BLOCK OF N HOUGHTON ST,21-58080,Society,Portsmouth,3/4/21,314,Weapon Law Violations,Weapons Law Violations,45.58658498,-122.7154897,3/4/21,1
+4700 BLOCK OF SE HARRISON ST,21-199363,Society,Richmond,7/21/21,258,Weapon Law Violations,Weapons Law Violations,45.50879473,-122.6136295,7/21/21,1
+4800 BLOCK OF NE 111TH AVE,21-134106,Society,Parkrose,5/18/21,1813,Weapon Law Violations,Weapons Law Violations,45.55812016,-122.5485512,5/18/21,1
+4800 BLOCK OF NE GLISAN ST,21-194406,Society,North Tabor,7/16/21,454,Weapon Law Violations,Weapons Law Violations,45.52656226,-122.6133385,7/16/21,1
+4800 BLOCK OF SE 65TH AVE,21-97907,Society,Mt Scott-Arleta,4/12/21,1110,Weapon Law Violations,Weapons Law Violations,45.48796695,-122.5958635,4/12/21,1
+4800 BLOCK OF SE TENINO CT,21-55361,Society,Brentwood-Darlington,3/1/21,1514,Weapon Law Violations,Weapons Law Violations,45.46486965,-122.6132983,3/1/21,1
+4800 BLOCK OF SW GREENSBORO WAY,21-100508,Society,,4/14/21,2200,Weapon Law Violations,Weapons Law Violations,45.48494371,-122.8380087,4/14/21,1
+4900 BLOCK OF NE 82ND AVE,21-23227,Society,Cully,1/26/21,0,Weapon Law Violations,Weapons Law Violations,45.55887829,-122.5786155,1/26/21,1
+4900 BLOCK OF NE 82ND AVE,21-120438,Society,Cully,5/5/21,528,Weapon Law Violations,Weapons Law Violations,45.55887829,-122.5786155,5/5/21,1
+4900 BLOCK OF NE 82ND AVE,21-256300,Society,Cully,9/14/21,335,Weapon Law Violations,Weapons Law Violations,45.55887829,-122.5786155,9/14/21,1
+5000 BLOCK OF NE 73RD AVE,21-201351,Society,Cully,7/23/21,625,Weapon Law Violations,Weapons Law Violations,45.55956978,-122.5878461,7/23/21,1
+5000 BLOCK OF NE GRAND AVE,21-178757,Society,King,7/1/21,1710,Weapon Law Violations,Weapons Law Violations,45.55956854,-122.6603883,7/1/21,1
+5200 BLOCK OF NE 48TH AVE,21-66065,Society,Cully,3/11/21,2027,Weapon Law Violations,Weapons Law Violations,45.56060028,-122.6132862,3/11/21,1
+5400 BLOCK OF NE 112TH AVE,21-9728,Society,Parkrose,1/11/21,200,Weapon Law Violations,Weapons Law Violations,45.56238559,-122.5473617,1/11/21,1
+5400 BLOCK OF SE 119TH AVE,21-6442,Society,Powellhurst-Gilbert,1/7/21,2301,Weapon Law Violations,Weapons Law Violations,45.48342627,-122.5408776,1/7/21,1
+5500 BLOCK OF SE 26TH AVE,21-165317,Society,Reed,6/18/21,1203,Weapon Law Violations,Weapons Law Violations,45.48275436,-122.6398771,6/18/21,1
+5500 BLOCK OF SE FOSTER RD,21-5072,Society,Foster-Powell,12/29/20,1420,Weapon Law Violations,Weapons Law Violations,45.4942,-122.6057876,1/6/21,1
+5500 BLOCK OF SE FOSTER RD,21-44360,Society,Foster-Powell,2/18/21,940,Weapon Law Violations,Weapons Law Violations,45.4942,-122.6057876,2/18/21,1
+5500 BLOCK OF SE FOSTER RD,21-157201,Society,Foster-Powell,6/10/21,1126,Weapon Law Violations,Weapons Law Violations,45.4942,-122.6057876,6/10/21,1
+5500 BLOCK OF SE FOSTER RD,21-234857,Society,Foster-Powell,8/14/21,1255,Weapon Law Violations,Weapons Law Violations,45.4942,-122.6057876,8/23/21,1
+5700 BLOCK OF NE 60TH AVE,21-157422,Society,Cully,6/10/21,1624,Weapon Law Violations,Weapons Law Violations,45.56412234,-122.6007467,6/10/21,1
+5800 BLOCK OF NE PRESCOTT ST,21-205765,Society,Cully,7/27/21,855,Weapon Law Violations,Weapons Law Violations,45.55542291,-122.6026741,7/27/21,1
+5800 BLOCK OF S CORBETT AVE,21-165333,Society,South Portland,6/18/21,1303,Weapon Law Violations,Weapons Law Violations,45.48150104,-122.6767771,6/18/21,1
+5800 BLOCK OF SE 17TH AVE,21-119727,Society,Sellwood-Moreland,5/4/21,1114,Weapon Law Violations,Weapons Law Violations,45.48043968,-122.6483469,5/4/21,1
+5800 BLOCK OF SE 77TH AVE,21-262912,Society,Mt Scott-Arleta,9/20/21,1652,Weapon Law Violations,Weapons Law Violations,45.48064201,-122.5840763,9/20/21,1
+5900 BLOCK OF NE KILLINGSWORTH ST,21-199717,Society,Cully,7/21/21,1226,Weapon Law Violations,Weapons Law Violations,45.56270279,-122.6014089,7/21/21,1
+6000 BLOCK OF NE KILLINGSWORTH ST,21-186293,Society,Cully,7/8/21,1514,Weapon Law Violations,Weapons Law Violations,45.56270121,-122.6004442,7/8/21,1
+6000 BLOCK OF SE HOLGATE BLVD,21-170689,Society,Creston-Kenilworth,6/23/21,2219,Weapon Law Violations,Weapons Law Violations,45.49031641,-122.601068,6/23/21,1
+6100 BLOCK OF SE 72ND AVE,21-206447,Society,Mt Scott-Arleta,7/27/21,2338,Weapon Law Violations,Weapons Law Violations,45.47858636,-122.5892463,7/27/21,1
+6100 BLOCK OF SW SEYMOUR ST,21-801375,Society,Bridlemile,3/27/21,0,Weapon Law Violations,Weapons Law Violations,45.48911047,-122.740906,5/21/21,1
+6200 BLOCK OF N DELAWARE AVE,21-136578,Society,Arbor Lodge,5/21/21,630,Weapon Law Violations,Weapons Law Violations,45.56784887,-122.6925666,5/21/21,1
+6200 BLOCK OF NE 82ND AVE,21-85526,Society,,3/31/21,1207,Weapon Law Violations,Weapons Law Violations,45.56501008,-122.5777074,3/31/21,1
+6300 BLOCK OF N MARINE DR,21-269432,Society,St Johns,9/26/21,2315,Weapon Law Violations,Weapons Law Violations,45.62799224,-122.7411303,9/27/21,1
+6300 BLOCK OF SW PALATINE ST,21-89713,Society,Ashcreek,4/4/21,1003,Weapon Law Violations,Weapons Law Violations,45.44387425,-122.7421516,4/4/21,1
+6400 BLOCK OF NE TILLAMOOK ST,21-181084,Society,Rose City Park,7/3/21,1810,Weapon Law Violations,Weapons Law Violations,45.53735851,-122.5971523,7/3/21,1
+6400 BLOCK OF NW FRONT AVE,21-263643,Society,Northwest Industrial,9/21/21,1150,Weapon Law Violations,Weapons Law Violations,45.56901956,-122.7455039,9/21/21,1
+6400 BLOCK OF SE FOSTER RD,21-127844,Society,Foster-Powell,5/12/21,1336,Weapon Law Violations,Weapons Law Violations,45.48942152,-122.5961395,5/12/21,1
+6500 BLOCK OF NE 42ND AVE,21-173104,Society,Cully,6/26/21,416,Weapon Law Violations,Weapons Law Violations,45.5702919,-122.6188817,6/26/21,1
+6500 BLOCK OF NE 66TH AVE,21-87401,Society,Cully,4/2/21,445,Weapon Law Violations,Weapons Law Violations,45.57040442,-122.5950692,4/2/21,1
+6500 BLOCK OF SE 96TH AVE,21-183264,Society,Lents,7/6/21,109,Weapon Law Violations,Weapons Law Violations,45.47492132,-122.5646526,7/6/21,1
+6600 BLOCK OF SE 90TH AVE,21-6591,Society,Lents,1/8/21,406,Weapon Law Violations,Weapons Law Violations,45.4744187,-122.5707763,1/8/21,1
+6700 BLOCK OF SW 26TH AVE,21-175947,Society,Multnomah,6/29/21,128,Weapon Law Violations,Weapons Law Violations,45.475199,-122.7039439,6/29/21,1
+6800 BLOCK OF N FESSENDEN ST,21-265204,Society,St Johns,9/22/21,1930,Weapon Law Violations,Weapons Law Violations,45.59303345,-122.7333238,9/22/21,1
+6800 BLOCK OF NE MARTIN LUTHER KING JR BLVD,21-147328,Society,Piedmont,5/31/21,1724,Weapon Law Violations,Weapons Law Violations,45.57215331,-122.6614223,5/31/21,1
+6900 BLOCK OF N HAIGHT AVE,21-2015,Society,Piedmont,1/3/21,53,Weapon Law Violations,Weapons Law Violations,45.57300699,-122.6697055,1/3/21,1
+6900 BLOCK OF SE FERN AVE,21-85615,Society,,3/31/21,1328,Weapon Law Violations,Weapons Law Violations,45.45927221,-122.5923532,3/31/21,1
+7000 BLOCK OF SE MARTINS ST,21-256082,Society,Mt Scott-Arleta,9/13/21,2112,Weapon Law Violations,Weapons Law Violations,45.47889386,-122.5905914,9/13/21,1
+7100 BLOCK OF NE 82ND AVE,21-110165,Society,,4/24/21,1929,Weapon Law Violations,Weapons Law Violations,45.57506563,-122.5778335,4/24/21,1
+7100 BLOCK OF NE KILLINGSWORTH ST,21-261295,Society,Cully,9/19/21,220,Weapon Law Violations,Weapons Law Violations,45.56263405,-122.5893728,9/19/21,1
+7100 BLOCK OF SE CENTER ST,21-32651,Society,Foster-Powell,2/5/21,552,Weapon Law Violations,Weapons Law Violations,45.49379138,-122.5894037,2/5/21,1
+7200 BLOCK OF SE HAWTHORNE BLVD,21-181637,Society,Mt Tabor,7/4/21,628,Weapon Law Violations,Weapons Law Violations,45.51219887,-122.5883132,7/4/21,1
+7300 BLOCK OF SE FLAVEL ST,21-132603,Society,Brentwood-Darlington,5/14/21,1500,Weapon Law Violations,Weapons Law Violations,45.46860998,-122.5877683,5/17/21,1
+7400 BLOCK OF N INTERSTATE AVE,21-94949,Society,Arbor Lodge,4/9/21,1146,Weapon Law Violations,Weapons Law Violations,45.57683048,-122.6819473,4/9/21,1
+7400 BLOCK OF SE 66TH AVE,21-146061,Society,Brentwood-Darlington,5/30/21,1238,Weapon Law Violations,Weapons Law Violations,45.46903815,-122.5951381,5/30/21,1
+7500 BLOCK OF SE 82ND AVE,21-103576,Society,Brentwood-Darlington,4/17/21,2123,Weapon Law Violations,Weapons Law Violations,45.46832541,-122.5791093,4/17/21,1
+7500 BLOCK OF SE 82ND AVE,21-115110,Society,Brentwood-Darlington,4/29/21,1735,Weapon Law Violations,Weapons Law Violations,45.46832541,-122.5791093,4/29/21,1
+7500 BLOCK OF SE 82ND AVE,21-256261,Society,Brentwood-Darlington,9/14/21,210,Weapon Law Violations,Weapons Law Violations,45.46832541,-122.5791093,9/14/21,1
+7600 BLOCK OF S CORBETT AVE,21-142181,Society,South Portland,5/26/21,1829,Weapon Law Violations,Weapons Law Violations,45.46895385,-122.6764992,5/26/21,1
+7600 BLOCK OF SE 82ND AVE,21-5659,Society,Lents,1/7/21,422,Weapon Law Violations,Weapons Law Violations,45.46765283,-122.5789794,1/7/21,1
+7600 BLOCK OF SE 82ND AVE,21-186215,Society,Lents,7/8/21,1358,Weapon Law Violations,Weapons Law Violations,45.46765283,-122.5789794,7/8/21,1
+7800 BLOCK OF NE SCHUYLER ST,21-165914,Society,Madison South,6/19/21,23,Weapon Law Violations,Weapons Law Violations,45.53562886,-122.5833389,6/19/21,1
+7900 BLOCK OF NE 82ND AVE,21-80818,Society,,3/26/21,2224,Weapon Law Violations,Weapons Law Violations,45.57957463,-122.5724353,3/26/21,1
+7900 BLOCK OF NE WYGANT ST,21-156460,Society,Cully,6/9/21,1647,Weapon Law Violations,Weapons Law Violations,45.55807507,-122.5808551,6/9/21,1
+7900 BLOCK OF SE POWELL BLVD,21-224797,Society,South Tabor,8/14/21,22,Weapon Law Violations,Weapons Law Violations,45.49746195,-122.5814163,8/14/21,1
+8000 BLOCK OF NE MARTIN LUTHER KING JR BLVD,21-680061,Society,Piedmont,1/22/21,440,Weapon Law Violations,Weapons Law Violations,45.58160018,-122.6615362,1/22/21,1
+8000 BLOCK OF SE FOSTER RD,21-228840,Society,Mt Scott-Arleta,8/18/21,225,Weapon Law Violations,Weapons Law Violations,45.4833909,-122.5806083,8/18/21,1
+8100 BLOCK OF N PORTSMOUTH AVE,21-129692,Society,Portsmouth,5/14/21,845,Weapon Law Violations,Weapons Law Violations,45.58458508,-122.7225896,5/14/21,1
+8100 BLOCK OF SE 52ND AVE,21-135759,Society,Brentwood-Darlington,5/20/21,1051,Weapon Law Violations,Weapons Law Violations,45.46445076,-122.6099686,5/20/21,1
+8100 BLOCK OF SE POWELL BLVD,21-31605,Society,Foster-Powell,2/4/21,505,Weapon Law Violations,Weapons Law Violations,45.49737207,-122.5792595,2/4/21,1
+8200 BLOCK OF NE SANDY BLVD,21-248545,Society,Sumner,9/6/21,1916,Weapon Law Violations,Weapons Law Violations,45.55265736,-122.5782314,9/6/21,1
+8300 BLOCK OF NE SANDY BLVD,21-238956,Society,Madison South,8/27/21,2037,Weapon Law Violations,Weapons Law Violations,45.55291197,-122.5773504,8/27/21,1
+8400 BLOCK OF SE 7TH AVE,21-189345,Society,Sellwood-Moreland,7/11/21,1357,Weapon Law Violations,Weapons Law Violations,45.46183082,-122.6589387,7/11/21,1
+8400 BLOCK OF SE HARNEY ST,21-260508,Society,Lents,9/18/21,828,Weapon Law Violations,Weapons Law Violations,45.46321539,-122.5761541,9/18/21,1
+8500 BLOCK OF SE HARNEY ST,21-124361,Society,Lents,5/9/21,212,Weapon Law Violations,Weapons Law Violations,45.46319997,-122.5750346,5/9/21,1
+8600 BLOCK OF N PORTSMOUTH AVE,21-194112,Society,Portsmouth,7/15/21,2020,Weapon Law Violations,Weapons Law Violations,45.58592118,-122.7215986,7/15/21,1
+8700 BLOCK OF N COLUMBIA BLVD,21-123380,Society,St Johns,5/8/21,300,Weapon Law Violations,Weapons Law Violations,45.60421245,-122.7508574,5/8/21,1
+8700 BLOCK OF N COLUMBIA BLVD,21-257195,Society,St Johns,9/15/21,0,Weapon Law Violations,Weapons Law Violations,45.60421245,-122.7508574,9/15/21,1
+8700 BLOCK OF N DECATUR ST,21-221609,Society,Cathedral Park,8/11/21,39,Weapon Law Violations,Weapons Law Violations,45.58865634,-122.759646,8/11/21,1
+8700 BLOCK OF NE KILLINGSWORTH ST,21-125941,Society,Sumner,5/10/21,1726,Weapon Law Violations,Weapons Law Violations,45.56267731,-122.5730367,5/10/21,1
+8700 BLOCK OF NE SANDY BLVD,21-162388,Society,Sumner,6/15/21,1512,Weapon Law Violations,Weapons Law Violations,45.55472906,-122.5728947,6/15/21,1
+8700 BLOCK OF NE SANDY BLVD,21-218153,Society,Sumner,8/7/21,1518,Weapon Law Violations,Weapons Law Violations,45.55472906,-122.5728947,8/7/21,1
+8700 BLOCK OF SE HENDERSON ST,21-44519,Society,Lents,2/18/21,1304,Weapon Law Violations,Weapons Law Violations,45.46914372,-122.5731538,2/18/21,1
+9100 BLOCK OF NW GERMANTOWN RD,21-128843,Society,Linnton,5/13/21,1233,Weapon Law Violations,Weapons Law Violations,45.58787837,-122.7755897,5/13/21,1
+9100 BLOCK OF SE POWELL BLVD,21-122428,Society,Lents,5/7/21,531,Weapon Law Violations,Weapons Law Violations,45.49734028,-122.5690176,5/7/21,1
+9200 BLOCK OF SE CLINTON ST,21-208634,Society,Powellhurst-Gilbert,7/29/21,2331,Weapon Law Violations,Weapons Law Violations,45.50258537,-122.5678353,7/29/21,1
+9200 BLOCK OF SE HOLGATE BLVD,21-220856,Society,Lents,8/10/21,1032,Weapon Law Violations,Weapons Law Violations,45.48997074,-122.5681173,8/10/21,1
+9200 BLOCK OF SE POWELL BLVD,21-25891,Society,Powellhurst-Gilbert,1/28/21,2132,Weapon Law Violations,Weapons Law Violations,45.4974218,-122.5678424,1/28/21,1
+9200 BLOCK OF SE STARK ST,21-236542,Society,Montavilla,8/25/21,1320,Weapon Law Violations,Weapons Law Violations,45.5191106,-122.568562,8/25/21,1
+9300 BLOCK OF NE GLISAN ST,21-118086,Society,Montavilla,5/2/21,1803,Weapon Law Violations,Weapons Law Violations,45.52637978,-122.5671094,5/2/21,1
+9300 BLOCK OF SE MT SCOTT BLVD,21-97644,Society,Lents,4/12/21,314,Weapon Law Violations,Weapons Law Violations,45.46755764,-122.5673875,4/12/21,1
+9400 BLOCK OF SE DIVISION ST,21-21530,Society,Powellhurst-Gilbert,1/24/21,0,Weapon Law Violations,Weapons Law Violations,45.50441158,-122.5669771,1/24/21,1
+9600 BLOCK OF SE HOLGATE BLVD,21-117914,Society,Lents,5/2/21,1433,Weapon Law Violations,Weapons Law Violations,45.48988832,-122.5643111,5/2/21,1
+9600 BLOCK OF SE STARK ST,21-14936,Society,Hazelwood,1/16/21,2157,Weapon Law Violations,Weapons Law Violations,45.51900004,-122.5640308,1/16/21,1
+9600 BLOCK OF SW 35TH DR,21-235529,Society,Markham,8/23/21,1800,Weapon Law Violations,Weapons Law Violations,45.45589841,-122.7112773,8/24/21,1
+9700 BLOCK OF NE SANDY BLVD,21-209251,Society,Parkrose,7/30/21,1320,Weapon Law Violations,Weapons Law Violations,45.55892834,-122.5625815,7/30/21,1
+9800 BLOCK OF NE GLASS PLANT RD,21-90093,Society,,4/4/21,1815,Weapon Law Violations,Weapons Law Violations,45.56377148,-122.5603945,4/4/21,1
+9900 BLOCK OF NE HALSEY ST,21-74614,Society,Hazelwood,3/20/21,1123,Weapon Law Violations,Weapons Law Violations,45.53348436,-122.560763,3/20/21,1
+9900 BLOCK OF NE SANDY BLVD,21-151029,Society,Parkrose,6/4/21,620,Weapon Law Violations,Weapons Law Violations,45.55930124,-122.5602986,6/4/21,1
+10100 BLOCK OF E BURNSIDE ST,21-34524,Society,Hazelwood,2/7/21,37,Weapon Law Violations,Weapons Law Violations,45.52252069,-122.5589483,2/7/21,1
+10100 BLOCK OF SE MARKET ST,21-149902,Society,Hazelwood,6/3/21,118,Weapon Law Violations,Weapons Law Violations,45.51143482,-122.5595103,6/3/21,1
+10200 BLOCK OF NE SANDY BLVD,21-42334,Society,Parkrose,2/16/21,745,Weapon Law Violations,Weapons Law Violations,45.5591144,-122.5572494,2/16/21,1
+10300 BLOCK OF NE HALSEY ST,21-241053,Society,Parkrose Heights,8/30/21,152,Weapon Law Violations,Weapons Law Violations,45.53357241,-122.5559998,8/30/21,1
+10400 BLOCK OF SE STARK ST,21-230754,Society,Mill Park,8/19/21,2339,Weapon Law Violations,Weapons Law Violations,45.51898838,-122.5561118,8/20/21,1
+10500 BLOCK OF SE CHERRY BLOSSOM DR,21-138991,Society,Hazelwood,5/23/21,1547,Weapon Law Violations,Weapons Law Violations,45.51522889,-122.5549298,5/23/21,1
+10500 BLOCK OF SE WASHINGTON ST,21-158569,Society,Mill Park,6/11/21,2039,Weapon Law Violations,Weapons Law Violations,45.51828244,-122.5547788,6/11/21,1
+10700 BLOCK OF NE WYGANT ST,21-64906,Society,Parkrose,3/10/21,1814,Weapon Law Violations,Weapons Law Violations,45.55715003,-122.5521833,3/10/21,1
+10900 BLOCK OF SE HOLGATE BLVD,21-185146,Society,Lents,7/7/21,1415,Weapon Law Violations,Weapons Law Violations,45.48972612,-122.5502393,7/7/21,1
+11000 BLOCK OF SE FOSTER RD,21-107223,Society,Lents,4/21/21,1924,Weapon Law Violations,Weapons Law Violations,45.47595586,-122.5497893,4/21/21,1
+11100 BLOCK OF NE HALSEY ST,21-71685,Society,Hazelwood,3/17/21,1212,Weapon Law Violations,Weapons Law Violations,45.53342131,-122.5478669,3/17/21,1
+11100 BLOCK OF SE DIVISION ST,21-40725,Society,Powellhurst-Gilbert,2/14/21,8,Weapon Law Violations,Weapons Law Violations,45.50415793,-122.5486689,2/14/21,1
+11100 BLOCK OF SE STARK ST,21-73645,Society,Hazelwood,3/19/21,310,Weapon Law Violations,Weapons Law Violations,45.51901986,-122.5486666,3/19/21,1
+11200 BLOCK OF NE GLISAN ST,21-229447,Society,Hazelwood,8/18/21,1523,Weapon Law Violations,Weapons Law Violations,45.52632314,-122.5471307,8/18/21,1
+11500 BLOCK OF NE SACRAMENTO ST,21-72094,Society,Parkrose Heights,3/17/21,1940,Weapon Law Violations,Weapons Law Violations,45.53952997,-122.5440816,3/17/21,1
+11500 BLOCK OF NE YACHT HARBOR DR,21-20750,Society,Hayden Island,1/23/21,203,Weapon Law Violations,Weapons Law Violations,45.60516467,-122.6603825,1/23/21,1
+11500 BLOCK OF SE HAROLD ST,21-197075,Society,Powellhurst-Gilbert,7/18/21,2151,Weapon Law Violations,Weapons Law Violations,45.48295262,-122.5442148,7/18/21,1
+11500 BLOCK OF SE SHERMAN CT,21-142096,Society,Mill Park,5/26/21,1750,Weapon Law Violations,Weapons Law Violations,45.50561538,-122.5441682,5/26/21,1
+11600 BLOCK OF NE FARGO ST,21-59663,Society,Parkrose Heights,3/5/21,1627,Weapon Law Violations,Weapons Law Violations,45.54537332,-122.5430231,3/5/21,1
+11800 BLOCK OF NE SANDY BLVD,21-128507,Society,Parkrose,5/13/21,423,Weapon Law Violations,Weapons Law Violations,45.55758053,-122.5406352,5/13/21,1
+11900 BLOCK OF SE ASH ST,21-224588,Society,Hazelwood,8/13/21,2027,Weapon Law Violations,Weapons Law Violations,45.52103809,-122.5399346,8/13/21,1
+12000 BLOCK OF N JANTZEN BEACH AVE,21-251472,Society,Hayden Island,9/9/21,1129,Weapon Law Violations,Weapons Law Violations,45.61072791,-122.6748434,9/9/21,1
+12000 BLOCK OF SE ASH ST,21-145739,Society,Hazelwood,5/30/21,21,Weapon Law Violations,Weapons Law Violations,45.52104277,-122.5390527,5/30/21,1
+12100 BLOCK OF E BURNSIDE ST,21-67652,Society,Hazelwood,3/13/21,1417,Weapon Law Violations,Weapons Law Violations,45.52263688,-122.5381186,3/13/21,1
+12100 BLOCK OF NE SAN RAFAEL ST,21-156722,Society,Parkrose Heights,6/9/21,2141,Weapon Law Violations,Weapons Law Violations,45.53725861,-122.5381947,6/9/21,1
+12100 BLOCK OF SE HENDERSON DR,21-22045,Society,Pleasant Valley,1/24/21,1647,Weapon Law Violations,Weapons Law Violations,45.46971011,-122.5370707,1/24/21,1
+12100 BLOCK OF SE MORRISON ST,21-73404,Society,Mill Park,3/19/21,730,Weapon Law Violations,Weapons Law Violations,45.51690167,-122.538186,3/19/21,1
+12200 BLOCK OF NE SISKIYOU ST,21-214085,Society,Russell,8/4/21,5,Weapon Law Violations,Weapons Law Violations,45.5444411,-122.5369611,8/4/21,1
+12300 BLOCK OF NE HALSEY ST,21-12506,Society,Russell,1/4/21,1346,Weapon Law Violations,Weapons Law Violations,45.5336067,-122.5361976,1/14/21,1
+12300 BLOCK OF NE HALSEY ST,21-24443,Society,Russell,1/12/21,1000,Weapon Law Violations,Weapons Law Violations,45.5336067,-122.5361976,1/27/21,1
+12300 BLOCK OF NE HALSEY ST,21-143226,Society,Russell,5/18/21,1759,Weapon Law Violations,Weapons Law Violations,45.5336067,-122.5361976,5/27/21,1
+12300 BLOCK OF NE HALSEY ST,21-153596,Society,Russell,6/6/21,1657,Weapon Law Violations,Weapons Law Violations,45.5336067,-122.5361976,6/6/21,1
+12300 BLOCK OF NE HALSEY ST,21-158412,Society,Russell,6/11/21,1714,Weapon Law Violations,Weapons Law Violations,45.5336067,-122.5361976,6/11/21,1
+12300 BLOCK OF SE BUSH ST,21-28615,Society,Powellhurst-Gilbert,1/31/21,2358,Weapon Law Violations,Weapons Law Violations,45.49440736,-122.5358575,1/31/21,1
+12300 BLOCK OF SE STARK ST,21-236699,Society,Hazelwood,8/25/21,1545,Weapon Law Violations,Weapons Law Violations,45.51907672,-122.5362073,8/25/21,1
+12600 BLOCK OF SE POWELL BLVD,21-97369,Society,Powellhurst-Gilbert,4/11/21,2130,Weapon Law Violations,Weapons Law Violations,45.49718604,-122.5329454,4/11/21,1
+12600 BLOCK OF SE RHONE ST,21-6149,Society,Powellhurst-Gilbert,1/7/21,1601,Weapon Law Violations,Weapons Law Violations,45.4956246,-122.5332757,1/7/21,1
+13500 BLOCK OF SE POWELL BLVD,21-62745,Society,Powellhurst-Gilbert,3/8/21,1821,Weapon Law Violations,Weapons Law Violations,45.49772827,-122.523992,3/8/21,1
+13500 BLOCK OF SE STEELE ST,21-90417,Society,Powellhurst-Gilbert,4/5/21,35,Weapon Law Violations,Weapons Law Violations,45.48467443,-122.5239912,4/5/21,1
+13600 BLOCK OF SE POWELL BLVD,21-29589,Society,Powellhurst-Gilbert,2/2/21,132,Weapon Law Violations,Weapons Law Violations,45.4979896,-122.5230182,2/2/21,1
+13600 BLOCK OF SE POWELL BLVD,21-225528,Society,Powellhurst-Gilbert,8/14/21,2002,Weapon Law Violations,Weapons Law Violations,45.4979896,-122.5230182,8/14/21,1
+13800 BLOCK OF NE GLISAN ST,21-83143,Society,Hazelwood,3/29/21,110,Weapon Law Violations,Weapons Law Violations,45.52640696,-122.5213181,3/29/21,1
+13900 BLOCK OF NE SANDY BLVD,21-207647,Society,Argay,7/2/21,2331,Weapon Law Violations,Weapons Law Violations,45.55412167,-122.5202434,7/26/21,1
+14000 BLOCK OF NE SANDY BLVD,21-39894,Society,Argay,2/12/21,2348,Weapon Law Violations,Weapons Law Violations,45.55400371,-122.5196183,2/13/21,1
+14100 BLOCK OF SE CENTER ST,21-166708,Society,Centennial,6/19/21,2249,Weapon Law Violations,Weapons Law Violations,45.49328944,-122.5171165,6/19/21,1
+14600 BLOCK OF SE HARRISON ST,21-104450,Society,Centennial,4/18/21,1927,Weapon Law Violations,Weapons Law Violations,45.50884064,-122.5131621,4/18/21,1
+14600 BLOCK OF SE TENINO ST,21-229419,Society,Pleasant Valley,8/7/21,19,Weapon Law Violations,Weapons Law Violations,45.46341534,-122.5123954,8/18/21,1
+14700 BLOCK OF SE DIVISION ST,21-104651,Society,Centennial,4/18/21,2332,Weapon Law Violations,Weapons Law Violations,45.50416789,-122.5111549,4/19/21,1
+14700 BLOCK OF SE STARK ST,21-63141,Society,Centennial,3/9/21,314,Weapon Law Violations,Weapons Law Violations,45.51910311,-122.5113444,3/9/21,1
+14700 BLOCK OF SE STARK ST,21-241958,Society,Centennial,8/30/21,2143,Weapon Law Violations,Weapons Law Violations,45.51910311,-122.5113444,8/30/21,1
+15000 BLOCK OF NE HALSEY ST,21-178066,Society,Wilkes,6/30/21,2344,Weapon Law Violations,Weapons Law Violations,45.53363075,-122.5080101,6/30/21,1
+15000 BLOCK OF SE STARK ST,21-72295,Society,Glenfair,3/18/21,45,Weapon Law Violations,Weapons Law Violations,45.51919583,-122.5085533,3/18/21,1
+15400 BLOCK OF NE ALTON ST,21-167006,Society,Wilkes,6/20/21,720,Weapon Law Violations,Weapons Law Violations,45.55050265,-122.5034878,6/20/21,1
+15500 BLOCK OF SE KENSINGTON DR,21-680348,Society,,3/12/21,600,Weapon Law Violations,Weapons Law Violations,45.41956704,-122.5031655,3/12/21,1
+15600 BLOCK OF SE STARK ST,21-239167,Society,Glenfair,8/28/21,24,Weapon Law Violations,Weapons Law Violations,45.51919518,-122.5021452,8/28/21,1
+15700 BLOCK OF SE CLINTON ST,21-169859,Society,Centennial,6/23/21,511,Weapon Law Violations,Weapons Law Violations,45.50280971,-122.5014232,6/23/21,1
+16000 BLOCK OF SE FLAVEL DR,21-39489,Society,Pleasant Valley,2/12/21,1034,Weapon Law Violations,Weapons Law Violations,45.47214741,-122.4979842,2/12/21,1
+16000 BLOCK OF SE POWELL BLVD,21-196022,Society,Pleasant Valley,7/17/21,1840,Weapon Law Violations,Weapons Law Violations,45.49508716,-122.4984009,7/17/21,1
+16100 BLOCK OF NE SANDY BLVD,21-48619,Society,Wilkes,2/22/21,1500,Weapon Law Violations,Weapons Law Violations,45.54956809,-122.4964927,2/22/21,1
+16700 BLOCK OF SE DIVISION ST,21-1274,Society,Centennial,12/31/20,2350,Weapon Law Violations,Weapons Law Violations,45.50462556,-122.4900749,1/2/21,1
+17400 BLOCK OF SE POWELL BLVD,21-105428,Society,Centennial,4/19/21,1927,Weapon Law Violations,Weapons Law Violations,45.49220523,-122.4843894,4/19/21,1
+17400 BLOCK OF SE POWELL BLVD,21-164931,Society,Centennial,6/18/21,44,Weapon Law Violations,Weapons Law Violations,45.49220523,-122.4843894,6/18/21,1
+20100 BLOCK OF NE BROADWAY CT,21-187519,Society,,7/9/21,1750,Weapon Law Violations,Weapons Law Violations,45.53511237,-122.455979,7/9/21,1
+BROADWAY BRG / NW NAITO PKWY,21-131870,Society,Pearl,5/16/21,1332,Weapon Law Violations,Weapons Law Violations,45.53069471,-122.6762274,5/16/21,1
+BURNSIDE BRG / NW NAITO PKWY,21-113496,Society,Old Town/Chinatown,4/28/21,700,Weapon Law Violations,Weapons Law Violations,45.52310289,-122.6702847,4/28/21,1
+E BURNSIDE ST / SE 102ND AVE,21-67324,Society,Hazelwood,3/13/21,220,Weapon Law Violations,Weapons Law Violations,45.52255429,-122.5582978,3/13/21,1
+E BURNSIDE ST / SE 102ND AVE,21-108131,Society,Hazelwood,4/22/21,1704,Weapon Law Violations,Weapons Law Violations,45.52255429,-122.5582978,4/22/21,1
+N DRUMMOND AVE / N HUNT ST,21-43454,Society,Kenton,2/17/21,1205,Weapon Law Violations,Weapons Law Violations,45.58559162,-122.699485,2/17/21,1
+N FESSENDEN ST / N ADRIATIC AVE,21-79239,Society,Portsmouth,3/25/21,150,Weapon Law Violations,Weapons Law Violations,45.59120593,-122.7190154,3/25/21,1
+N FESSENDEN ST / N MIDWAY AVE,21-138293,Society,St Johns,5/22/21,1958,Weapon Law Violations,Weapons Law Violations,45.5935223,-122.7354183,5/22/21,1
+N HUNT ST / N DANA AVE,21-115203,Society,Portsmouth,4/29/21,1918,Weapon Law Violations,Weapons Law Violations,45.58536319,-122.7123981,4/29/21,1
+N INTERSTATE AVE / N CHURCH ST,21-95707,Society,Overlook,4/9/21,2332,Weapon Law Violations,Weapons Law Violations,45.56336527,-122.6823512,4/10/21,1
+N PACIFIC GATEWAY BLVD / N MARINE DR,21-269391,Society,St Johns,9/26/21,2214,Weapon Law Violations,Weapons Law Violations,45.63613304,-122.7558605,9/26/21,1
+N SMITH ST / N BUCHANAN AVE,21-219024,Society,St Johns,8/8/21,1217,Weapon Law Violations,Weapons Law Violations,45.59201685,-122.7415804,8/8/21,1
+N TOMAHAWK ISLAND DR / N JANTZEN DR,21-220438,Society,Hayden Island,8/9/21,2155,Weapon Law Violations,Weapons Law Violations,45.61034697,-122.677143,8/9/21,1
+N WILLIAMS AVE / NE HANCOCK ST,21-117405,Society,Eliot,5/1/21,2341,Weapon Law Violations,Weapons Law Violations,45.53651549,-122.66671,5/1/21,1
+NB I5 FWY SO / EXIT 304 & N ROSA PARKS WAY,21-264970,Society,Piedmont,9/22/21,1511,Weapon Law Violations,Weapons Law Violations,45.56683455,-122.67852,9/22/21,1
+NB I205 FWY AT / SE FOSTER RD,21-18672,Society,Lents,1/20/21,2258,Weapon Law Violations,Weapons Law Violations,45.47894311,-122.5655866,1/20/21,1
+NE 6TH AVE / NE BRYANT ST,21-133498,Society,Woodlawn,5/18/21,708,Weapon Law Violations,Weapons Law Violations,45.57322392,-122.6593457,5/18/21,1
+NE 14TH AVE / NE HALSEY ST,21-198793,Society,Lloyd,7/20/21,1408,Weapon Law Violations,Weapons Law Violations,45.53361291,-122.6515109,7/20/21,1
+NE 28TH AVE / NE EVERETT ST,21-139372,Society,Kerns,5/23/21,2351,Weapon Law Violations,Weapons Law Violations,45.52501202,-122.637227,5/23/21,1
+NE 33RD AVE / NE DEKUM ST,21-74771,Society,Concordia,3/20/21,1420,Weapon Law Violations,Weapons Law Violations,45.57186347,-122.6306401,3/20/21,1
+NE 33RD DR / NE ELROD RD,21-261061,Society,,9/18/21,2116,Weapon Law Violations,Weapons Law Violations,45.58710196,-122.6319394,9/18/21,1
+NE 33RD DR / NE SUNDERLAND AVE,21-680811,Society,Sunderland,4/21/21,800,Weapon Law Violations,Weapons Law Violations,45.58925741,-122.6319931,4/29/21,1
+NE 62ND AVE / NE SANDY BLVD,21-24264,Society,Rose City Park,1/27/21,408,Weapon Law Violations,Weapons Law Violations,45.544245,-122.5994019,1/27/21,1
+NE 75TH AVE / NE PRESCOTT ST,21-88970,Society,Roseway,4/3/21,1510,Weapon Law Violations,Weapons Law Violations,45.55543566,-122.5857063,4/3/21,1
+NE 81ST AVE / NE FAILING ST,21-681322,Society,Roseway,9/9/21,1710,Weapon Law Violations,Weapons Law Violations,45.55100644,-122.5797095,9/9/21,1
+NE 82ND AVE / NE RUSSELL ST,21-267443,Society,Madison South,9/24/21,2326,Weapon Law Violations,Weapons Law Violations,45.54086166,-122.5789005,9/25/21,1
+NE 82ND AVE / NE TILLAMOOK ST,21-75068,Society,Madison South,3/20/21,2107,Weapon Law Violations,Weapons Law Violations,45.5372253,-122.5789625,3/20/21,1
+NE 100TH AVE / NE GLISAN ST,21-68298,Society,Hazelwood,3/14/21,315,Weapon Law Violations,Weapons Law Violations,45.5262941,-122.5607284,3/14/21,1
+NE 102ND AVE / E BURNSIDE ST,21-207295,Society,Hazelwood,7/28/21,1833,Weapon Law Violations,Weapons Law Violations,45.52273279,-122.5582886,9/5/21,1
+NE 102ND AVE / NE HALSEY ST,21-71809,Society,Woodland Park,3/17/21,1410,Weapon Law Violations,Weapons Law Violations,45.53353561,-122.5580557,3/18/21,1
+NE 104TH AVE / NE WASCO ST,21-21313,Society,Hazelwood,1/23/21,1932,Weapon Law Violations,Weapons Law Violations,45.53204792,-122.5554879,1/23/21,1
+NE 117TH AVE / NE BRAZEE ST,21-50768,Society,Parkrose Heights,2/24/21,2352,Weapon Law Violations,Weapons Law Violations,45.5404481,-122.5425921,2/25/21,1
+NE 122ND AVE / E BURNSIDE ST,21-172602,Society,Hazelwood,6/25/21,1738,Weapon Law Violations,Weapons Law Violations,45.52258553,-122.5377655,6/25/21,1
+NE 122ND AVE / NE AIRPORT WAY,21-250802,Society,Parkrose,9/8/21,1756,Weapon Law Violations,Weapons Law Violations,45.56554165,-122.5335433,9/8/21,1
+NE 122ND AVE / NE HALSEY ST,21-265497,Society,Parkrose Heights,9/23/21,335,Weapon Law Violations,Weapons Law Violations,45.53357296,-122.5376368,9/23/21,1
+NE 122ND AVE / NE SACRAMENTO ST,21-103867,Society,Russell,4/18/21,348,Weapon Law Violations,Weapons Law Violations,45.53951673,-122.5375652,4/18/21,1
+NE 122ND AVE / NE SISKIYOU ST,21-159028,Society,Russell,6/12/21,915,Weapon Law Violations,Weapons Law Violations,45.54448236,-122.5374194,6/12/21,1
+NE 127TH AVE / NE COUCH ST,21-61429,Society,Hazelwood,3/7/21,1122,Weapon Law Violations,Weapons Law Violations,45.52342415,-122.53255,3/7/21,1
+NE 132ND AVE / NE SACRAMENTO ST,21-134525,Society,Russell,5/19/21,634,Weapon Law Violations,Weapons Law Violations,45.5424027,-122.5270257,5/19/21,1
+NE 142ND AVE / NE HALSEY ST,21-150673,Society,Wilkes,6/3/21,1946,Weapon Law Violations,Weapons Law Violations,45.53368906,-122.5169008,6/3/21,1
+NE 155TH AVE / NE FREMONT ST,21-110811,Society,Wilkes,4/25/21,30,Weapon Law Violations,Weapons Law Violations,45.54822081,-122.5031301,4/25/21,1
+NE BROADWAY / NE 33RD AVE,21-176327,Society,Grant Park,6/27/21,1530,Weapon Law Violations,Weapons Law Violations,45.53515902,-122.6306679,6/27/21,1
+NE CLEVELAND AVE / NE BRYANT ST,21-148922,Society,Piedmont,6/2/21,549,Weapon Law Violations,Weapons Law Violations,45.57330257,-122.6658141,6/2/21,1
+NE COLUMBIA BLVD / NE 33RD DR&COLUMBIA BLVD RAMP,21-181136,Society,Sunderland,7/3/21,1905,Weapon Law Violations,Weapons Law Violations,45.57426214,-122.6335586,7/3/21,1
+NE FREMONT ST / NE 57TH AVE,21-271471,Society,Rose City Park,9/29/21,5,Weapon Law Violations,Weapons Law Violations,45.54824166,-122.604544,9/29/21,1
+NE FREMONT ST / NE FREMONT DR,21-27483,Society,Madison South,1/30/21,1757,Weapon Law Violations,Weapons Law Violations,45.54813283,-122.5770388,1/30/21,1
+NE GLISAN ST / NE 102ND AVE,21-218810,Society,Hazelwood,8/8/21,503,Weapon Law Violations,Weapons Law Violations,45.52626895,-122.5581514,8/8/21,1
+NE GLISAN ST / NE 102ND AVE,21-252967,Society,Hazelwood,9/10/21,1827,Weapon Law Violations,Weapons Law Violations,45.52626895,-122.5581514,9/10/21,1
+NE GRAND AVE / NE EVERETT ST,21-161162,Society,Kerns,6/14/21,1213,Weapon Law Violations,Weapons Law Violations,45.52506973,-122.6606954,6/14/21,1
+NE IVY ST / NE MARTIN LUTHER KING JR BLVD,21-42096,Society,Eliot,2/15/21,2208,Weapon Law Violations,Weapons Law Violations,45.54789921,-122.6615919,2/15/21,1
+NE KILLINGSWORTH ST / NE 60TH AVE,21-180602,Society,Cully,7/3/21,833,Weapon Law Violations,Weapons Law Violations,45.56274632,-122.6008286,7/3/21,1
+NE KILLINGSWORTH ST / NE 72ND AVE,21-36194,Society,Cully,2/8/21,2307,Weapon Law Violations,Weapons Law Violations,45.56266246,-122.5888661,2/9/21,1
+NE KILLINGSWORTH ST / NE 72ND AVE,21-60132,Society,Cully,3/6/21,319,Weapon Law Violations,Weapons Law Violations,45.56266246,-122.5888661,3/6/21,1
+NE LIBERTY ST / NE 6TH AVE,21-256760,Society,Woodlawn,9/14/21,1500,Weapon Law Violations,Weapons Law Violations,45.57103995,-122.6593485,9/14/21,1
+NE MORRIS CT / NE 102ND AVE FRONTAGE RD,21-262328,Society,Parkrose Heights,9/18/21,1052,Weapon Law Violations,Weapons Law Violations,45.54414217,-122.557597,9/20/21,1
+NE PACIFIC ST / NE 99TH AVE,21-250145,Society,Hazelwood,9/8/21,731,Weapon Law Violations,Weapons Law Violations,45.52947719,-122.5619213,9/8/21,1
+NE PRESCOTT ST / NE 74TH AVE,21-205792,Society,Cully,7/27/21,230,Weapon Law Violations,Weapons Law Violations,45.55543566,-122.5867646,7/27/21,1
+NE RODNEY AVE / NE SAN RAFAEL ST,21-210690,Society,Eliot,7/31/21,1822,Weapon Law Violations,Weapons Law Violations,45.53707085,-122.664174,7/31/21,1
+NE RUSSELL ST / NE 123RD AVE,21-252314,Society,Russell,9/10/21,623,Weapon Law Violations,Weapons Law Violations,45.54124254,-122.5363193,9/10/21,1
+NE SANDY BLVD / NE 102ND AVE,21-212083,Society,Parkrose,8/2/21,215,Weapon Law Violations,Weapons Law Violations,45.55911615,-122.557765,8/2/21,1
+NE SANDY BLVD / NE 111TH AVE,21-59070,Society,Parkrose,3/5/21,123,Weapon Law Violations,Weapons Law Violations,45.55830015,-122.5486124,3/5/21,1
+NE SANDY BLVD / NE SKIDMORE ST,21-239989,Society,Sumner,8/28/21,2359,Weapon Law Violations,Weapons Law Violations,45.55367299,-122.5756209,8/28/21,1
+NW 3RD AVE / NW COUCH ST,21-102024,Society,Old Town/Chinatown,4/16/21,848,Weapon Law Violations,Weapons Law Violations,45.52382855,-122.6734077,4/16/21,1
+NW 3RD AVE / W BURNSIDE ST,21-7639,Society,Old Town/Chinatown,1/9/21,729,Weapon Law Violations,Weapons Law Violations,45.52312142,-122.6733689,1/9/21,1
+NW 4TH AVE / NW COUCH ST,21-11634,Society,Old Town/Chinatown,1/13/21,1315,Weapon Law Violations,Weapons Law Violations,45.52381211,-122.6744219,1/13/21,1
+NW 4TH AVE / NW DAVIS ST,21-242821,Society,Old Town/Chinatown,8/31/21,2049,Weapon Law Violations,Weapons Law Violations,45.52452494,-122.6744492,8/31/21,1
+NW 5TH AVE / NW DAVIS ST,21-203079,Society,Old Town/Chinatown,7/24/21,1818,Weapon Law Violations,Weapons Law Violations,45.52450575,-122.6754633,7/24/21,1
+NW 5TH AVE / NW DAVIS ST,21-251390,Society,Old Town/Chinatown,9/9/21,935,Weapon Law Violations,Weapons Law Violations,45.52450575,-122.6754633,9/9/21,1
+NW 6TH AVE / NW DAVIS ST,21-70902,Society,Old Town/Chinatown,3/16/21,1604,Weapon Law Violations,Weapons Law Violations,45.52448936,-122.6764736,3/16/21,1
+NW 8TH AVE / NW COUCH ST,21-24991,Society,Pearl,1/27/21,2141,Weapon Law Violations,Weapons Law Violations,45.52373246,-122.678482,1/27/21,1
+NW 12TH AVE / NW EVERETT ST,21-27180,Society,Pearl,1/30/21,1101,Weapon Law Violations,Weapons Law Violations,45.5250776,-122.6832137,1/30/21,1
+NW 13TH AVE / NW KEARNEY ST,21-252725,Society,Pearl,9/10/21,1343,Weapon Law Violations,Weapons Law Violations,45.52933548,-122.6843845,9/10/21,1
+NW 14TH AVE / NW MARSHALL ST,21-680363,Society,Pearl,3/12/21,2340,Weapon Law Violations,Weapons Law Violations,45.53074201,-122.6854458,3/12/21,1
+NW 14TH AVE / NW MARSHALL ST,21-680364,Society,Pearl,3/12/21,1150,Weapon Law Violations,Weapons Law Violations,45.53074201,-122.6854458,3/12/21,1
+NW 19TH AVE / NW IRVING ST,21-30246,Society,Northwest,2/2/21,1721,Weapon Law Violations,Weapons Law Violations,45.52779939,-122.6904188,2/2/21,1
+NW 21ST AVE / NW VAUGHN ST,21-230748,Society,Northwest,8/19/21,2310,Weapon Law Violations,Weapons Law Violations,45.53699457,-122.6948183,8/19/21,1
+NW BROADWAY / NW EVERETT ST,21-244468,Society,Pearl,9/2/21,1412,Weapon Law Violations,Weapons Law Violations,45.52518017,-122.6775188,9/2/21,1
+NW FLANDERS ST / NW 6TH AVE,21-227534,Society,Old Town/Chinatown,8/16/21,2118,Weapon Law Violations,Weapons Law Violations,45.52591503,-122.6765282,8/16/21,1
+NW GLISAN ST / NW 6TH AVE,21-253558,Society,Old Town/Chinatown,9/11/21,1024,Weapon Law Violations,Weapons Law Violations,45.52662794,-122.6765517,9/11/21,1
+NW JOHNSON ST / NW 9TH AVE,21-205256,Society,Pearl,7/26/21,1920,Weapon Law Violations,Weapons Law Violations,45.52869716,-122.6802886,7/26/21,1
+NW JOHNSON ST / NW 10TH AVE,21-25546,Society,Pearl,1/28/21,1431,Weapon Law Violations,Weapons Law Violations,45.5286777,-122.6813145,1/28/21,1
+NW MARSHALL ST / NW 13TH AVE,21-93064,Society,Pearl,4/7/21,1350,Weapon Law Violations,Weapons Law Violations,45.53075818,-122.684451,4/7/21,1
+NW NAITO PKWY / FREMONT BRG,21-249803,Society,Pearl,9/7/21,2012,Weapon Law Violations,Weapons Law Violations,45.53606551,-122.6852604,9/7/21,1
+S BOND AVE / S ABERNETHY ST,21-680073,Society,South Portland,1/20/21,2154,Weapon Law Violations,Weapons Law Violations,45.49499277,-122.6709273,1/20/21,1
+S MOODY AVE / S BANCROFT ST,21-680717,Society,South Portland,5/1/21,2347,Weapon Law Violations,Weapons Law Violations,45.49316899,-122.6720474,5/2/21,1
+SB I205 FWY AT / NE KILLINGSWORTH ST,21-194239,Society,,7/15/21,2321,Weapon Law Violations,Weapons Law Violations,45.56097692,-122.5635464,7/15/21,1
+SB SW BARBUR BLVD TO / WB SW CAPITOL HWY,21-61959,Society,South Portland,3/7/21,2040,Weapon Law Violations,Weapons Law Violations,45.48066399,-122.6802591,3/7/21,1
+SE 2ND AVE / SE YAMHILL ST,21-680023,Society,Buckman West,1/12/21,408,Weapon Law Violations,Weapons Law Violations,45.51580913,-122.6637969,1/12/21,1
+SE 14TH AVE / SE MAIN ST,21-108626,Society,Buckman East,4/23/21,757,Weapon Law Violations,Weapons Law Violations,45.51362852,-122.6516396,4/23/21,1
+SE 20TH AVE / SE TAGGART ST,21-63003,Society,Hosford-Abernethy,3/8/21,2302,Weapon Law Violations,Weapons Law Violations,45.50268385,-122.6456377,3/8/21,1
+SE 35TH AVE / SE CLINTON ST,21-208239,Society,Richmond,7/29/21,1512,Weapon Law Violations,Weapons Law Violations,45.50339358,-122.6285788,7/29/21,1
+SE 56TH AVE / SE BUSH ST,21-161530,Society,Foster-Powell,6/14/21,1828,Weapon Law Violations,Weapons Law Violations,45.49546662,-122.6053898,6/14/21,1
+SE 67TH AVE / SE BROOKLYN ST,21-97641,Society,South Tabor,4/12/21,218,Weapon Law Violations,Weapons Law Violations,45.50065925,-122.5946425,4/12/21,1
+SE 72ND AVE / SE WOODSTOCK BLVD,21-188039,Society,Mt Scott-Arleta,7/10/21,630,Weapon Law Violations,Weapons Law Violations,45.47951562,-122.5892922,7/10/21,1
+SE 72ND AVE / SE WOODSTOCK BLVD,21-209845,Society,Mt Scott-Arleta,7/30/21,2307,Weapon Law Violations,Weapons Law Violations,45.47951562,-122.5892922,7/30/21,1
+SE 74TH AVE / SE REEDWAY ST,21-243106,Society,Mt Scott-Arleta,9/1/21,425,Weapon Law Violations,Weapons Law Violations,45.48168371,-122.5866925,9/1/21,1
+SE 79TH AVE / SE POWELL BLVD,21-145398,Society,Foster-Powell,5/29/21,1957,Weapon Law Violations,Weapons Law Violations,45.49741431,-122.5819256,5/29/21,1
+SE 80TH AVE / SE MALDEN ST,21-101882,Society,Brentwood-Darlington,4/16/21,430,Weapon Law Violations,Weapons Law Violations,45.46798628,-122.5816236,4/16/21,1
+SE 81ST AVE / SE MORRISON ST,21-259703,Society,Montavilla,9/17/21,1344,Weapon Law Violations,Weapons Law Violations,45.51692071,-122.5802914,9/17/21,1
+SE 81ST AVE / SE WASHINGTON ST,21-219378,Society,Montavilla,8/8/21,1955,Weapon Law Violations,Weapons Law Violations,45.51839944,-122.5802949,8/8/21,1
+SE 82ND AVE / SE DIVISION ST,21-88303,Society,Montavilla,4/2/21,2306,Weapon Law Violations,Weapons Law Violations,45.50483132,-122.5786859,4/3/21,1
+SE 82ND AVE / SE INSLEY ST,21-74413,Society,Foster-Powell,3/20/21,351,Weapon Law Violations,Weapons Law Violations,45.4835336,-122.5789403,3/20/21,1
+SE 82ND AVE / SE MITCHELL ST,21-74284,Society,Foster-Powell,3/20/21,30,Weapon Law Violations,Weapons Law Violations,45.48521574,-122.5789239,3/20/21,1
+SE 82ND AVE / SE RAYMOND ST,21-242179,Society,Foster-Powell,8/31/21,433,Weapon Law Violations,Weapons Law Violations,45.48658017,-122.5788763,8/31/21,1
+SE 82ND AVE / SE STARK ST,21-35438,Society,Montavilla,2/8/21,313,Weapon Law Violations,Weapons Law Violations,45.51912948,-122.5790688,2/8/21,1
+SE 82ND AVE / SE STARK ST,21-95809,Society,Montavilla,4/10/21,146,Weapon Law Violations,Weapons Law Violations,45.51912948,-122.5790688,4/10/21,1
+SE 82ND AVE / SE STARK ST,21-253359,Society,Montavilla,9/11/21,251,Weapon Law Violations,Weapons Law Violations,45.51912948,-122.5790688,9/11/21,1
+SE 86TH AVE / SE GLENWOOD ST,21-105062,Society,Lents,4/17/21,2158,Weapon Law Violations,Weapons Law Violations,45.47396905,-122.5748624,4/19/21,1
+SE 92ND AVE / SE PARDEE ST,21-72091,Society,Lents,3/17/21,1934,Weapon Law Violations,Weapons Law Violations,45.48894967,-122.5685989,3/17/21,1
+SE 92ND AVE / SE RAMONA ST,21-26542,Society,Lents,1/29/21,1644,Weapon Law Violations,Weapons Law Violations,45.48073798,-122.5686042,1/29/21,1
+SE 92ND AVE / SE STEELE ST,21-22811,Society,Lents,1/25/21,1412,Weapon Law Violations,Weapons Law Violations,45.48455991,-122.568599,1/25/21,1
+SE 94TH AVE / SE MITCHELL ST,21-2538,Society,Lents,1/3/21,2156,Weapon Law Violations,Weapons Law Violations,45.48562334,-122.5671361,1/3/21,1
+SE 99TH AVE / SE PINE ST,21-56501,Society,Hazelwood,3/2/21,1709,Weapon Law Violations,Weapons Law Violations,45.52041714,-122.5622714,3/2/21,1
+SE 102ND AVE / SE POWELL BLVD,21-113350,Society,Powellhurst-Gilbert,4/28/21,16,Weapon Law Violations,Weapons Law Violations,45.49574991,-122.5582784,4/28/21,1
+SE 102ND AVE / SE WASHINGTON ST,21-157701,Society,Hazelwood,6/10/21,2300,Weapon Law Violations,Weapons Law Violations,45.51833774,-122.5584337,6/10/21,1
+SE 104TH AVE / SE HOLGATE BLVD,21-33169,Society,Lents,2/5/21,1638,Weapon Law Violations,Weapons Law Violations,45.48978647,-122.5557649,2/5/21,1
+SE 108TH AVE / SE HAROLD ST,21-171449,Society,Lents,6/24/21,1548,Weapon Law Violations,Weapons Law Violations,45.48272754,-122.5525258,6/24/21,1
+SE 111TH AVE / SE STARK ST,21-23300,Society,Hazelwood,1/26/21,231,Weapon Law Violations,Weapons Law Violations,45.51898315,-122.5493404,1/26/21,1
+SE 112TH AVE / SE BUSH ST,21-251611,Society,Powellhurst-Gilbert,9/9/21,1319,Weapon Law Violations,Weapons Law Violations,45.4949434,-122.5479894,9/9/21,1
+SE 115TH AVE / SE MORRISON ST,21-13999,Society,Mill Park,1/15/21,2128,Weapon Law Violations,Weapons Law Violations,45.51684623,-122.5451656,1/15/21,1
+SE 122ND AVE / SE HAROLD ST,21-31325,Society,Powellhurst-Gilbert,2/3/21,2040,Weapon Law Violations,Weapons Law Violations,45.48322573,-122.5379569,2/3/21,1
+SE 122ND AVE / SE HAROLD ST,21-241108,Society,Powellhurst-Gilbert,8/30/21,356,Weapon Law Violations,Weapons Law Violations,45.48322573,-122.5379569,8/30/21,1
+SE 134TH AVE / SE BROOKLYN CT,21-208620,Society,Powellhurst-Gilbert,7/29/21,2318,Weapon Law Violations,Weapons Law Violations,45.50011182,-122.5252708,7/30/21,1
+SE 134TH AVE / SE POWELL BLVD,21-69647,Society,Powellhurst-Gilbert,3/15/21,1322,Weapon Law Violations,Weapons Law Violations,45.49757494,-122.5252193,3/15/21,1
+SE 136TH AVE / SE POWELL BLVD,21-255250,Society,Powellhurst-Gilbert,9/13/21,124,Weapon Law Violations,Weapons Law Violations,45.497854,-122.5235518,9/13/21,1
+SE 138TH AVE / SE CLINTON CT,21-131376,Society,Powellhurst-Gilbert,5/15/21,2256,Weapon Law Violations,Weapons Law Violations,45.50309672,-122.521382,5/16/21,1
+SE 139TH AVE / SE MAIN ST,21-54593,Society,Hazelwood,2/28/21,2058,Weapon Law Violations,Weapons Law Violations,45.51386334,-122.521016,2/28/21,1
+SE 157TH AVE / SE STARK ST,21-239198,Society,Centennial,8/28/21,146,Weapon Law Violations,Weapons Law Violations,45.51914932,-122.5016284,8/28/21,1
+SE 160TH AVE / SE ALDER ST,21-260091,Society,Centennial,9/17/21,2150,Weapon Law Violations,Weapons Law Violations,45.51733333,-122.4990941,9/18/21,1
+SE 170TH AVE / SE POWELL BLVD,21-102911,Society,Centennial,4/17/21,438,Weapon Law Violations,Weapons Law Violations,45.49295435,-122.4878717,4/17/21,1
+SE ANKENY ST / SE 122ND AVE,21-166931,Society,Hazelwood,6/20/21,422,Weapon Law Violations,Weapons Law Violations,45.52177614,-122.5377677,6/20/21,1
+SE ASH ST / SE 119TH AVE,21-28489,Society,Hazelwood,1/31/21,2007,Weapon Law Violations,Weapons Law Violations,45.52107976,-122.5403693,1/31/21,1
+SE CLINTON ST / SE 122ND AVE,21-50455,Society,Powellhurst-Gilbert,2/24/21,1704,Weapon Law Violations,Weapons Law Violations,45.50230947,-122.537678,2/24/21,1
+SE DIVISION ST / SE 87TH AVE,21-232630,Society,Montavilla,8/21/21,1940,Weapon Law Violations,Weapons Law Violations,45.50456011,-122.5733501,8/21/21,1
+SE DIVISION ST / SE 92ND AVE,21-183176,Society,Powellhurst-Gilbert,7/5/21,2021,Weapon Law Violations,Weapons Law Violations,45.5044723,-122.5686336,7/5/21,1
+SE DIVISION ST / SE 119TH AVE,21-130476,Society,Powellhurst-Gilbert,5/14/21,2331,Weapon Law Violations,Weapons Law Violations,45.50412064,-122.5408994,5/15/21,1
+SE DIVISION ST / SE 119TH AVE,21-226622,Society,Powellhurst-Gilbert,8/15/21,2242,Weapon Law Violations,Weapons Law Violations,45.50412064,-122.5408994,8/16/21,1
+SE DIVISION ST / SE 145TH AVE,21-21414,Society,Centennial,1/23/21,2144,Weapon Law Violations,Weapons Law Violations,45.50416633,-122.5139055,1/23/21,1
+SE DIVISION ST / SE 145TH AVE,21-236301,Society,Centennial,8/25/21,925,Weapon Law Violations,Weapons Law Violations,45.50416633,-122.5139055,8/25/21,1
+SE DIVISION ST / SE 162ND AVE,21-75283,Society,Centennial,3/21/21,101,Weapon Law Violations,Weapons Law Violations,45.5045722,-122.4966278,3/21/21,1
+SE DIVISION ST / SE 162ND AVE,21-214974,Society,Centennial,8/4/21,1908,Weapon Law Violations,Weapons Law Violations,45.5045722,-122.4966278,8/4/21,1
+SE FLAVEL ST / SPRINGWATER TRAIL CORR,21-99937,Society,Lents,4/13/21,1513,Weapon Law Violations,Weapons Law Violations,45.46850987,-122.5723976,4/14/21,1
+SE FOSTER RD / SE 84TH AVE,21-118481,Society,Lents,5/3/21,239,Weapon Law Violations,Weapons Law Violations,45.48209189,-122.5768907,5/3/21,1
+SE FOSTER RD / SE 88TH AVE,21-203008,Society,Lents,7/24/21,1610,Weapon Law Violations,Weapons Law Violations,45.48094265,-122.5723167,7/24/21,1
+SE FOSTER RD / SE 111TH AVE,21-248781,Society,Powellhurst-Gilbert,9/6/21,2340,Weapon Law Violations,Weapons Law Violations,45.47604275,-122.549379,9/7/21,1
+SE HAROLD ST / SE 61ST AVE,21-79301,Society,Mt Scott-Arleta,3/25/21,500,Weapon Law Violations,Weapons Law Violations,45.48304704,-122.6008499,3/25/21,1
+SE HAROLD ST / SE 135TH AVE,21-5616,Society,Powellhurst-Gilbert,1/7/21,23,Weapon Law Violations,Weapons Law Violations,45.48344076,-122.5248716,1/7/21,1
+SE HOLGATE BLVD / SE 29TH AVE,21-109275,Society,Reed,4/23/21,1857,Weapon Law Violations,Weapons Law Violations,45.4903075,-122.6353168,4/23/21,1
+SE HOLGATE BLVD / SE 111TH AVE,21-151983,Society,Lents,6/5/21,254,Weapon Law Violations,Weapons Law Violations,45.48976393,-122.5490432,6/5/21,1
+SE KELLY ST / SE 122ND AVE,21-147185,Society,Powellhurst-Gilbert,5/31/21,1453,Weapon Law Violations,Weapons Law Violations,45.4991081,-122.5376568,5/31/21,1
+SE LINCOLN ST / SE 85TH AVE,21-88460,Society,Montavilla,4/3/21,215,Weapon Law Violations,Weapons Law Violations,45.50758796,-122.5756887,4/3/21,1
+SE MCLOUGHLIN BLVD / SE TACOMA ST,21-6044,Society,Sellwood-Moreland,1/7/21,1400,Weapon Law Violations,Weapons Law Violations,45.46534196,-122.6384612,1/7/21,1
+SE MITCHELL ST / SE 60TH AVE,21-8203,Society,Mt Scott-Arleta,1/9/21,1921,Weapon Law Violations,Weapons Law Violations,45.48540817,-122.6021112,1/9/21,1
+SE POWELL BLVD / SE 88TH AVE,21-70479,Society,Powellhurst-Gilbert,3/16/21,847,Weapon Law Violations,Weapons Law Violations,45.49739864,-122.5723241,3/16/21,1
+SE POWELL BLVD / SE 112TH AVE,21-163513,Society,Powellhurst-Gilbert,6/16/21,1551,Weapon Law Violations,Weapons Law Violations,45.49656781,-122.5479778,6/16/21,1
+SE POWELL BLVD / SE 118TH AVE,21-20613,Society,Powellhurst-Gilbert,1/22/21,2309,Weapon Law Violations,Weapons Law Violations,45.49693036,-122.5421001,1/22/21,1
+SE POWELL BLVD / SE 124TH AVE,21-10157,Society,Powellhurst-Gilbert,1/12/21,2,Weapon Law Violations,Weapons Law Violations,45.49713034,-122.5359356,1/12/21,1
+SE POWELL BLVD / SE 128TH AVE,21-219693,Society,Powellhurst-Gilbert,8/9/21,244,Weapon Law Violations,Weapons Law Violations,45.49727342,-122.5318835,8/9/21,1
+SE POWELL BLVD / SE 162ND AVE,21-226678,Society,Centennial,8/15/21,2347,Weapon Law Violations,Weapons Law Violations,45.4947746,-122.496654,8/16/21,1
+SE RHINE CT / SE 162ND AVE,21-17914,Society,Centennial,1/20/21,417,Weapon Law Violations,Weapons Law Violations,45.49733607,-122.4968689,1/20/21,1
+SE RHONE ST / SE 66TH AVE,21-68879,Society,Foster-Powell,3/14/21,1807,Weapon Law Violations,Weapons Law Violations,45.49568424,-122.59529,3/14/21,1
+SE STARK ST / SE 122ND AVE,21-113287,Society,Hazelwood,4/27/21,2251,Weapon Law Violations,Weapons Law Violations,45.51902137,-122.537782,4/28/21,1
+SE STARK ST / SE 122ND AVE,21-217657,Society,Hazelwood,8/7/21,427,Weapon Law Violations,Weapons Law Violations,45.51902137,-122.537782,8/7/21,1
+SE STARK ST / SE 133RD AVE,21-124291,Society,Hazelwood,5/9/21,19,Weapon Law Violations,Weapons Law Violations,45.51908701,-122.5261583,5/9/21,1
+SE STARK ST / SE 139TH AVE,21-165902,Society,Hazelwood,6/19/21,12,Weapon Law Violations,Weapons Law Violations,45.51910063,-122.5210229,6/19/21,1
+SE STARK ST / SE 143RD AVE,21-207678,Society,Centennial,7/29/21,324,Weapon Law Violations,Weapons Law Violations,45.51911745,-122.5158485,7/29/21,1
+SE STARK ST / SE 143RD AVE,21-237388,Society,Centennial,8/26/21,1057,Weapon Law Violations,Weapons Law Violations,45.51911745,-122.5158485,8/26/21,1
+SW 2ND AVE / SW YAMHILL ST,21-233538,Society,Downtown,8/22/21,1747,Weapon Law Violations,Weapons Law Violations,45.51732223,-122.6749149,8/22/21,1
+SW 3RD AVE / SW HARVEY MILK ST,21-162344,Society,Downtown,6/15/21,1501,Weapon Law Violations,Weapons Law Violations,45.5202529,-122.6744573,6/15/21,1
+SW 3RD AVE / SW OAK ST,21-226977,Society,Downtown,8/16/21,1104,Weapon Law Violations,Weapons Law Violations,45.52091821,-122.6740964,8/16/21,1
+SW 5TH AVE / SW WASHINGTON ST,21-25541,Society,Downtown,1/28/21,1417,Weapon Law Violations,Weapons Law Violations,45.52013057,-122.6768607,1/28/21,1
+SW 9TH AVE / SW ALDER ST,21-261036,Society,Downtown,9/18/21,2036,Weapon Law Violations,Weapons Law Violations,45.52041836,-122.6807825,9/18/21,1
+SW 10TH AVE / SW JEFFERSON ST,21-237561,Society,Downtown,8/26/21,1352,Weapon Law Violations,Weapons Law Violations,45.51601161,-122.6842701,8/26/21,1
+SW 12TH AVE / SW COLUMBIA ST,21-145994,Society,Downtown,5/30/21,1148,Weapon Law Violations,Weapons Law Violations,45.51589182,-122.6866734,5/30/21,1
+SW 12TH AVE / SW JEFFERSON ST,21-225112,Society,Downtown,8/14/21,1036,Weapon Law Violations,Weapons Law Violations,45.51655724,-122.6863088,8/14/21,1
+SW 12TH AVE / SW WASHINGTON ST,21-251137,Society,Downtown,9/9/21,144,Weapon Law Violations,Weapons Law Violations,45.52188822,-122.6834228,9/9/21,1
+SW ANKENY ST / SW 2ND AVE,21-134538,Society,Old Town/Chinatown,5/19/21,647,Weapon Law Violations,Weapons Law Violations,45.52253149,-122.6722105,5/19/21,1
+SW ASH ST / SW 2ND AVE,21-68524,Society,Old Town/Chinatown,3/14/21,1054,Weapon Law Violations,Weapons Law Violations,45.52200132,-122.6723893,3/14/21,1
+SW BARBUR BLVD / SW CAPITOL HWY&BARBUR BLVD RAMP,21-169534,Society,Hillsdale,6/22/21,2000,Weapon Law Violations,Weapons Law Violations,45.48249938,-122.6805557,6/22/21,1
+SW BEAVERTON HILLSDALE HWY / SW BERTHA BLVD,21-145023,Society,Hillsdale,5/29/21,1310,Weapon Law Violations,Weapons Law Violations,45.47851239,-122.6994196,5/29/21,1
+SW BROADWAY / SW 6TH AVE,21-157194,Society,Southwest Hills,6/10/21,1232,Weapon Law Violations,Weapons Law Violations,45.50714983,-122.6842531,6/10/21,1
+SW BROADWAY / SW MILL ST,21-138682,Society,Downtown,5/23/21,633,Weapon Law Violations,Weapons Law Violations,45.51268685,-122.683229,5/23/21,1
+SW BROADWAY / SW TAYLOR ST,21-225663,Society,Downtown,8/14/21,2237,Weapon Law Violations,Weapons Law Violations,45.5180122,-122.6803467,8/14/21,1
+SW CEDAR HILLS BLVD / SUNSET HWY EB,21-140894,Society,,5/25/21,1357,Weapon Law Violations,Weapons Law Violations,45.51394194,-122.7939821,5/25/21,1
+SW MAIN ST / SW 1ST AVE,21-131925,Society,Downtown,5/16/21,1600,Weapon Law Violations,Weapons Law Violations,45.51507532,-122.6750513,5/16/21,1
+SW NAITO PKWY / SW SALMON ST,21-181993,Society,Downtown,7/4/21,1605,Weapon Law Violations,Weapons Law Violations,45.51546157,-122.6736338,7/4/21,1
+SW NAITO PKWY / W BURNSIDE ST,21-63221,Society,Old Town/Chinatown,3/9/21,806,Weapon Law Violations,Weapons Law Violations,45.52310289,-122.6702847,3/9/21,1
+SW WASHINGTON ST / SW 2ND AVE,21-89473,Society,Downtown,4/4/21,113,Weapon Law Violations,Weapons Law Violations,45.5193209,-122.6738323,4/4/21,1
+SW WASHINGTON ST / SW 9TH AVE,21-35760,Society,Downtown,2/8/21,1247,Weapon Law Violations,Weapons Law Violations,45.52108088,-122.6804255,2/8/21,1
+W BURNSIDE ST / SW 20TH AVE,21-205854,Society,Northwest,7/27/21,1106,Weapon Law Violations,Weapons Law Violations,45.52311626,-122.6922716,7/27/21,1
