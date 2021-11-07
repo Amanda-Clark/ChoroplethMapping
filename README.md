@@ -13,4 +13,4 @@ using Multnomah County precinct level data (https://www.multco.us/file/93747/dow
 ![image](https://user-images.githubusercontent.com/1906954/137789990-3efbcad7-b61a-47a2-b46c-a83f518ac5a1.png)
 
 Here's a heatmap using folium of some city of Portland crime stats (https://www.portlandoregon.gov/police/71978):
-![img_1.png](img_1.png)
+![img_1](https://user-images.githubusercontent.com/1906954/140663831-536f7c1f-318d-4ab4-b102-3fb0eed1e158.png)
